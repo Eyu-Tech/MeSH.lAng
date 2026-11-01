@@ -1,0 +1,7 @@
+{
+  "case_id": "study-02",
+  "process_carrier": "State (sigma): Articulate the relevant distinction explicitly, then integrate it through a handoff.\nTrajectory (tau): Use the integrated handoff to make the connection to the next participant explicit.",
+  "state_reading": "State is स\\a followed by द\\i: make the relevant connection explicit, then integrate the material through a handoff. In this case, preserve the distinction between the superseded row-export selection, the current aggregate-only reviewed decision, and the separate internal-audit goal.",
+  "trajectory_reading": "Trajectory is क\\a: use the integrated handoff to bring the connection to the next participant into explicit articulation. The directed transition runs from the carried-forward disposition in State to that explicit connection; it is not equality or a reversible relation.",
+  "handoff": "Case study-02 concerns data export. For G-BIRCH, G-BIRCH/r3 selected export individual rows and is superseded. The current reviewed decision is G-BIRCH/r4: partner report with aggregate counts only because row-level consent is not established. G-DELTA/r4 concerns a different goal—raw rows for internal audit—and has not been accepted into G-BIRCH. The minimum aggregation threshold is unresolved; no value is specified. Carry these distinctions forward and make the connection to the next participant explicit."
+}

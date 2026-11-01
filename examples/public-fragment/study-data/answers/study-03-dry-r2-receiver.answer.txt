@@ -1,0 +1,12 @@
+{
+  "case_id": "study-03",
+  "current_goal": "G-FALCON",
+  "current_revision": "G-FALCON/r2",
+  "current_decision": "Incrementally update the index after each approved content change.",
+  "superseded_revision": "G-FALCON/r1 — nightly full index rebuild",
+  "foreign_revision": "G-HARBOR/r2 — nightly archive backups; it concerns a different goal and has not been accepted into G-FALCON.",
+  "unresolved_information": "The retry limit for failed incremental updates is unresolved; no value is specified.",
+  "state_reading": "स\\a → क\\i means a connection made explicit leads to an articulation that integrates parts. In this case, carry forward the reviewed disposition to make approved content changes explicit and bring them together coherently in the index.",
+  "trajectory_reading": "क\\i → द\\a means an integrated articulation leads to a handoff that makes something explicit. Here, the intended transition is from a coherent index disposition to explicitly handing off each approved content change for incremental indexing.",
+  "next_step": "Proceed with incremental index updates after each approved content change, keeping the retry limit unresolved until it is specified."
+}

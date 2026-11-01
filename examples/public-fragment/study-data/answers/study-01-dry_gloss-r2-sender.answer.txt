@@ -1,0 +1,7 @@
+{
+  "case_id": "study-01",
+  "process_carrier": "State (sigma):\n◊ स\\a → द\\i ;\n\nTrajectory (tau):\n◊ द\\i → क\\a ;",
+  "state_reading": "Make the connection among the relevant deployment records explicit, then integrate them through a handoff. Here, distinguish the current reviewed G-ORBIT/r3 decision from the superseded G-ORBIT/r2 decision and from the separate G-QUARTZ/r3 goal.",
+  "trajectory_reading": "Turn that integrated handoff into an explicit result for the next participant. The directed transition is from State to Trajectory: carry forward the distinctions and make the current staging decision explicit; this does not equate the chains or reverse their direction.",
+  "handoff": "Case study-01 concerns deployment and goal G-ORBIT. G-ORBIT/r2 selected automatic rollout after tests; its status is superseded. The current reviewed decision is G-ORBIT/r3: manual approval gate for staging while rollback is tested. The approval owner for staging is unresolved; no value is specified. G-QUARTZ/r3 concerns a different goal, auto-deploy documentation previews, and has not been accepted into G-ORBIT. Carry forward G-ORBIT/r3 as the current reviewed decision, preserve the superseded status of G-ORBIT/r2, and do not treat G-QUARTZ/r3 as part of G-ORBIT."
+}

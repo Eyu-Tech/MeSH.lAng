@@ -1,0 +1,7 @@
+{
+  "case_id": "study-05",
+  "process_carrier": "State (sigma): Make the connection among the relevant records explicit, then integrate them through a handoff.\nTrajectory (tau): Turn the integrated handoff into an explicit result for the next participant.",
+  "state_reading": "State (sigma) carries forward the disposition to connect the relevant records explicitly, then integrate them through a handoff. In this case, that means relating the reviewed decision and its status to the other goal’s separate decision, while preserving what remains unknown.",
+  "trajectory_reading": "Trajectory (tau) directs a transition from that integrated handoff to an explicit result for the next participant. It does not mean the State and Trajectory are equal or that the transition runs in reverse.",
+  "handoff": "Case study-05 concerns notification delivery for G-TIDAL. G-TIDAL/r1, which selected discarding notifications during outages, is superseded. The current reviewed decision is G-TIDAL/r2: queue notifications locally during a network outage and send them after reconnection. G-SPRUCE/r2 concerns a different goal—sending telemetry directly to an external endpoint—and has not been accepted into G-TIDAL. Queue capacity is unresolved; no value is specified. The next participant should carry forward these identifiers, statuses, and goal distinctions, with queue capacity marked unknown."
+}

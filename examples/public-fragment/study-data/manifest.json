@@ -1,0 +1,1080 @@
+{
+  "schema": "public-handoff-study-manifest-v1",
+  "source_commit": "7700c3efbd070f729365104916c93c69511d8797",
+  "study_freeze": {
+    "cases_sha256": "520061d270ac384faee23e2ad63c89e8040bf2284c8a48892abb73eeea36e719",
+    "design_sha256": "b535a49c0957df5377f6a0e09fc1671471c6b67ed440745083bfdb3776b56e6a",
+    "execution_sha256": "8ab1c6818a5c9b882dedc5ae14bf68d9ff2cb60926f0a3b32cce215080528f06",
+    "freeze_hashes_file_sha256": "9a950d8d6426198c2a0eb4aca142081cc21022ee93efb5f6595546623d1cc327"
+  },
+  "counts": {
+    "cases": 8,
+    "conditions": 4,
+    "trials": 64,
+    "answers": 128
+  },
+  "answer_bytes": [
+    {
+      "trial_id": "study-01-natural_prose-r1",
+      "role": "sender",
+      "file": "answers/study-01-natural_prose-r1-sender.answer.txt",
+      "original_sha256": "87faeb66730ad0240af34b81ec20000d7c5eed0b5ddbb99e1b358a221383b243",
+      "export_sha256": "87faeb66730ad0240af34b81ec20000d7c5eed0b5ddbb99e1b358a221383b243",
+      "bytes": 1294
+    },
+    {
+      "trial_id": "study-01-natural_prose-r1",
+      "role": "receiver",
+      "file": "answers/study-01-natural_prose-r1-receiver.answer.txt",
+      "original_sha256": "1a504ee752573c45974b35834cf95fad10c2616c2269cfb524f6055889f5e35e",
+      "export_sha256": "1a504ee752573c45974b35834cf95fad10c2616c2269cfb524f6055889f5e35e",
+      "bytes": 1081
+    },
+    {
+      "trial_id": "study-01-structured_prose-r1",
+      "role": "sender",
+      "file": "answers/study-01-structured_prose-r1-sender.answer.txt",
+      "original_sha256": "d043ce2d22d03db04338e945948c993d375d8856917a4b242dce02d5c5a86d96",
+      "export_sha256": "d043ce2d22d03db04338e945948c993d375d8856917a4b242dce02d5c5a86d96",
+      "bytes": 1470
+    },
+    {
+      "trial_id": "study-01-structured_prose-r1",
+      "role": "receiver",
+      "file": "answers/study-01-structured_prose-r1-receiver.answer.txt",
+      "original_sha256": "b4f730a3afecd56c259f976266689027922bd2058028fe8830664f7f05e986e8",
+      "export_sha256": "b4f730a3afecd56c259f976266689027922bd2058028fe8830664f7f05e986e8",
+      "bytes": 1114
+    },
+    {
+      "trial_id": "study-01-dry-r1",
+      "role": "sender",
+      "file": "answers/study-01-dry-r1-sender.answer.txt",
+      "original_sha256": "3a9d57d747859a24a11cf134a8c661e3abc712ab1b94e3a10c4c3b167ddcc1c3",
+      "export_sha256": "3a9d57d747859a24a11cf134a8c661e3abc712ab1b94e3a10c4c3b167ddcc1c3",
+      "bytes": 1571
+    },
+    {
+      "trial_id": "study-01-dry-r1",
+      "role": "receiver",
+      "file": "answers/study-01-dry-r1-receiver.answer.txt",
+      "original_sha256": "8041e2e41cf5f04036c1cb0365173f23e9a1dc74a51e7cb710c859078db59781",
+      "export_sha256": "8041e2e41cf5f04036c1cb0365173f23e9a1dc74a51e7cb710c859078db59781",
+      "bytes": 1147
+    },
+    {
+      "trial_id": "study-01-dry_gloss-r1",
+      "role": "sender",
+      "file": "answers/study-01-dry_gloss-r1-sender.answer.txt",
+      "original_sha256": "017e6a39242517c4a94bfbea7e9cfa24ad450f2e40e5b3c8e00e9a1fbb4795a8",
+      "export_sha256": "017e6a39242517c4a94bfbea7e9cfa24ad450f2e40e5b3c8e00e9a1fbb4795a8",
+      "bytes": 1197
+    },
+    {
+      "trial_id": "study-01-dry_gloss-r1",
+      "role": "receiver",
+      "file": "answers/study-01-dry_gloss-r1-receiver.answer.txt",
+      "original_sha256": "8b2c5b64db89c02855a115bfc930f3e5c071e740d334c2ebdda667af0aa31271",
+      "export_sha256": "8b2c5b64db89c02855a115bfc930f3e5c071e740d334c2ebdda667af0aa31271",
+      "bytes": 1020
+    },
+    {
+      "trial_id": "study-02-structured_prose-r1",
+      "role": "sender",
+      "file": "answers/study-02-structured_prose-r1-sender.answer.txt",
+      "original_sha256": "479ec7edc2703937945e882767c5aa0a3873ac17d88c9058bfd89aa6ac21d45a",
+      "export_sha256": "479ec7edc2703937945e882767c5aa0a3873ac17d88c9058bfd89aa6ac21d45a",
+      "bytes": 1455
+    },
+    {
+      "trial_id": "study-02-structured_prose-r1",
+      "role": "receiver",
+      "file": "answers/study-02-structured_prose-r1-receiver.answer.txt",
+      "original_sha256": "c5be4f729b7ea61a8510f295c3c33e84e4299f18b754e6e462a22f64f6bc9e62",
+      "export_sha256": "c5be4f729b7ea61a8510f295c3c33e84e4299f18b754e6e462a22f64f6bc9e62",
+      "bytes": 1380
+    },
+    {
+      "trial_id": "study-02-dry-r1",
+      "role": "sender",
+      "file": "answers/study-02-dry-r1-sender.answer.txt",
+      "original_sha256": "0cde639a0e1c6fc39e469baff759c8cb4b35a90f185c6fcefa4ae366151366a3",
+      "export_sha256": "0cde639a0e1c6fc39e469baff759c8cb4b35a90f185c6fcefa4ae366151366a3",
+      "bytes": 1477
+    },
+    {
+      "trial_id": "study-02-dry-r1",
+      "role": "receiver",
+      "file": "answers/study-02-dry-r1-receiver.answer.txt",
+      "original_sha256": "e6e493a3ef4f723f1e26f2429645456a65e7118f1a647459b0615c84be65229e",
+      "export_sha256": "e6e493a3ef4f723f1e26f2429645456a65e7118f1a647459b0615c84be65229e",
+      "bytes": 1150
+    },
+    {
+      "trial_id": "study-02-dry_gloss-r1",
+      "role": "sender",
+      "file": "answers/study-02-dry_gloss-r1-sender.answer.txt",
+      "original_sha256": "fdd5b632997ebeb9cc3fb3ad9025a6f8b5fffa9e1839d4643c6aadde0f2e6330",
+      "export_sha256": "fdd5b632997ebeb9cc3fb3ad9025a6f8b5fffa9e1839d4643c6aadde0f2e6330",
+      "bytes": 1719
+    },
+    {
+      "trial_id": "study-02-dry_gloss-r1",
+      "role": "receiver",
+      "file": "answers/study-02-dry_gloss-r1-receiver.answer.txt",
+      "original_sha256": "0d4ad01b43cbcf31802eae780ce07ca60caf125908ca4554205f29567b47ba39",
+      "export_sha256": "0d4ad01b43cbcf31802eae780ce07ca60caf125908ca4554205f29567b47ba39",
+      "bytes": 1174
+    },
+    {
+      "trial_id": "study-02-natural_prose-r1",
+      "role": "sender",
+      "file": "answers/study-02-natural_prose-r1-sender.answer.txt",
+      "original_sha256": "e1ce2dfc5a78fa2a1e4057e38d00c1331e9ff38d77681ec11fc24076aefbf421",
+      "export_sha256": "e1ce2dfc5a78fa2a1e4057e38d00c1331e9ff38d77681ec11fc24076aefbf421",
+      "bytes": 1368
+    },
+    {
+      "trial_id": "study-02-natural_prose-r1",
+      "role": "receiver",
+      "file": "answers/study-02-natural_prose-r1-receiver.answer.txt",
+      "original_sha256": "b44dd4852ee4d5c015d405d31f3784d16423c991113fa238ef98a7354034d6c0",
+      "export_sha256": "b44dd4852ee4d5c015d405d31f3784d16423c991113fa238ef98a7354034d6c0",
+      "bytes": 1154
+    },
+    {
+      "trial_id": "study-03-dry-r1",
+      "role": "sender",
+      "file": "answers/study-03-dry-r1-sender.answer.txt",
+      "original_sha256": "cd3c91f150dd817785da5a7daf0e0c32828d449b2f282ee211600d5f381870c6",
+      "export_sha256": "cd3c91f150dd817785da5a7daf0e0c32828d449b2f282ee211600d5f381870c6",
+      "bytes": 1450
+    },
+    {
+      "trial_id": "study-03-dry-r1",
+      "role": "receiver",
+      "file": "answers/study-03-dry-r1-receiver.answer.txt",
+      "original_sha256": "3fec925c1a67e0dc5e95ab705763fa240a63a5520aa931141c0ad2e772c048ca",
+      "export_sha256": "3fec925c1a67e0dc5e95ab705763fa240a63a5520aa931141c0ad2e772c048ca",
+      "bytes": 1049
+    },
+    {
+      "trial_id": "study-03-dry_gloss-r1",
+      "role": "sender",
+      "file": "answers/study-03-dry_gloss-r1-sender.answer.txt",
+      "original_sha256": "7de101af47de50c81739d5b2b71179f4e6440ee112e1fc8d37d11fabf8fe2798",
+      "export_sha256": "7de101af47de50c81739d5b2b71179f4e6440ee112e1fc8d37d11fabf8fe2798",
+      "bytes": 1066
+    },
+    {
+      "trial_id": "study-03-dry_gloss-r1",
+      "role": "receiver",
+      "file": "answers/study-03-dry_gloss-r1-receiver.answer.txt",
+      "original_sha256": "80b7a75b0982f3da6a639968ec68ff458376c5436c6a9926431c82a62dc0e010",
+      "export_sha256": "80b7a75b0982f3da6a639968ec68ff458376c5436c6a9926431c82a62dc0e010",
+      "bytes": 1053
+    },
+    {
+      "trial_id": "study-03-natural_prose-r1",
+      "role": "sender",
+      "file": "answers/study-03-natural_prose-r1-sender.answer.txt",
+      "original_sha256": "23440d6b054e15eb6ab8bc4dc20b26d9664db3fde55a92449edaf022b0376661",
+      "export_sha256": "23440d6b054e15eb6ab8bc4dc20b26d9664db3fde55a92449edaf022b0376661",
+      "bytes": 1255
+    },
+    {
+      "trial_id": "study-03-natural_prose-r1",
+      "role": "receiver",
+      "file": "answers/study-03-natural_prose-r1-receiver.answer.txt",
+      "original_sha256": "a38dbde7b2c814791cd40e3648a6597faf8603c8cd774e57cca0326cb77db532",
+      "export_sha256": "a38dbde7b2c814791cd40e3648a6597faf8603c8cd774e57cca0326cb77db532",
+      "bytes": 1049
+    },
+    {
+      "trial_id": "study-03-structured_prose-r1",
+      "role": "sender",
+      "file": "answers/study-03-structured_prose-r1-sender.answer.txt",
+      "original_sha256": "361404b01e1016415211b9ae65b76aa506a8c2674ef59b5630d31c1b0b7cc4f2",
+      "export_sha256": "361404b01e1016415211b9ae65b76aa506a8c2674ef59b5630d31c1b0b7cc4f2",
+      "bytes": 1494
+    },
+    {
+      "trial_id": "study-03-structured_prose-r1",
+      "role": "receiver",
+      "file": "answers/study-03-structured_prose-r1-receiver.answer.txt",
+      "original_sha256": "072cb0a63a6d9bdeb1b3f8647b5e79de249259c466a70803dac245c6dc0b9add",
+      "export_sha256": "072cb0a63a6d9bdeb1b3f8647b5e79de249259c466a70803dac245c6dc0b9add",
+      "bytes": 1036
+    },
+    {
+      "trial_id": "study-04-dry_gloss-r1",
+      "role": "sender",
+      "file": "answers/study-04-dry_gloss-r1-sender.answer.txt",
+      "original_sha256": "38cebb54421ae7f8126719f19b61386e74843e9fb7c846403b488c5959426c0b",
+      "export_sha256": "38cebb54421ae7f8126719f19b61386e74843e9fb7c846403b488c5959426c0b",
+      "bytes": 1065
+    },
+    {
+      "trial_id": "study-04-dry_gloss-r1",
+      "role": "receiver",
+      "file": "answers/study-04-dry_gloss-r1-receiver.answer.txt",
+      "original_sha256": "4f88da16a32ca8d634b002d2f6d3e400eaabd481fd6f8733740fe64efeefdb2d",
+      "export_sha256": "4f88da16a32ca8d634b002d2f6d3e400eaabd481fd6f8733740fe64efeefdb2d",
+      "bytes": 1116
+    },
+    {
+      "trial_id": "study-04-natural_prose-r1",
+      "role": "sender",
+      "file": "answers/study-04-natural_prose-r1-sender.answer.txt",
+      "original_sha256": "2ad6e2556a66142235f304393a6bdd9d13e953ec049146dc38fd914c46364def",
+      "export_sha256": "2ad6e2556a66142235f304393a6bdd9d13e953ec049146dc38fd914c46364def",
+      "bytes": 1275
+    },
+    {
+      "trial_id": "study-04-natural_prose-r1",
+      "role": "receiver",
+      "file": "answers/study-04-natural_prose-r1-receiver.answer.txt",
+      "original_sha256": "34b491db1d2c14b91ba5b633a4add31bd72d0015e48973cb48781b4b90bb8de6",
+      "export_sha256": "34b491db1d2c14b91ba5b633a4add31bd72d0015e48973cb48781b4b90bb8de6",
+      "bytes": 1098
+    },
+    {
+      "trial_id": "study-04-structured_prose-r1",
+      "role": "sender",
+      "file": "answers/study-04-structured_prose-r1-sender.answer.txt",
+      "original_sha256": "d788967ba7e899c884f991931d1522bc7bf83c77b7267553c0ffa70238a4c181",
+      "export_sha256": "d788967ba7e899c884f991931d1522bc7bf83c77b7267553c0ffa70238a4c181",
+      "bytes": 1232
+    },
+    {
+      "trial_id": "study-04-structured_prose-r1",
+      "role": "receiver",
+      "file": "answers/study-04-structured_prose-r1-receiver.answer.txt",
+      "original_sha256": "510ff7f9d1d3d371a1235810efd7d1897849a57bd90d66e8fc1177a9c0710ec5",
+      "export_sha256": "510ff7f9d1d3d371a1235810efd7d1897849a57bd90d66e8fc1177a9c0710ec5",
+      "bytes": 1237
+    },
+    {
+      "trial_id": "study-04-dry-r1",
+      "role": "sender",
+      "file": "answers/study-04-dry-r1-sender.answer.txt",
+      "original_sha256": "7ae0b0daf38f93dde4f97d184f785956548ba0513ade092e57e9f4f980a5afb6",
+      "export_sha256": "7ae0b0daf38f93dde4f97d184f785956548ba0513ade092e57e9f4f980a5afb6",
+      "bytes": 1512
+    },
+    {
+      "trial_id": "study-04-dry-r1",
+      "role": "receiver",
+      "file": "answers/study-04-dry-r1-receiver.answer.txt",
+      "original_sha256": "1b09a47c1bedbcb757e5a718bd454c826f22b0409778de237d3d7df8a6ff6c6c",
+      "export_sha256": "1b09a47c1bedbcb757e5a718bd454c826f22b0409778de237d3d7df8a6ff6c6c",
+      "bytes": 1187
+    },
+    {
+      "trial_id": "study-05-natural_prose-r1",
+      "role": "sender",
+      "file": "answers/study-05-natural_prose-r1-sender.answer.txt",
+      "original_sha256": "1dea66deacef58f4f87dfd6bf9ecddbba961ee03802d0418e5b85cccee4e6586",
+      "export_sha256": "1dea66deacef58f4f87dfd6bf9ecddbba961ee03802d0418e5b85cccee4e6586",
+      "bytes": 1596
+    },
+    {
+      "trial_id": "study-05-natural_prose-r1",
+      "role": "receiver",
+      "file": "answers/study-05-natural_prose-r1-receiver.answer.txt",
+      "original_sha256": "0c377527774df9d10272fd7281ca17cf53e84f4907f819e02b6347179290ecd6",
+      "export_sha256": "0c377527774df9d10272fd7281ca17cf53e84f4907f819e02b6347179290ecd6",
+      "bytes": 1080
+    },
+    {
+      "trial_id": "study-05-structured_prose-r1",
+      "role": "sender",
+      "file": "answers/study-05-structured_prose-r1-sender.answer.txt",
+      "original_sha256": "569049acc9b47a2a6a88a6c88526a2fb28c670a6dba07d10245642676cb8bde0",
+      "export_sha256": "569049acc9b47a2a6a88a6c88526a2fb28c670a6dba07d10245642676cb8bde0",
+      "bytes": 1247
+    },
+    {
+      "trial_id": "study-05-structured_prose-r1",
+      "role": "receiver",
+      "file": "answers/study-05-structured_prose-r1-receiver.answer.txt",
+      "original_sha256": "13b1357db7baef63cd7c1028dad57137f2dc682b6bd3245de530a46f048ef74e",
+      "export_sha256": "13b1357db7baef63cd7c1028dad57137f2dc682b6bd3245de530a46f048ef74e",
+      "bytes": 1146
+    },
+    {
+      "trial_id": "study-05-dry-r1",
+      "role": "sender",
+      "file": "answers/study-05-dry-r1-sender.answer.txt",
+      "original_sha256": "fbc66b45d0ef8ca53bb60b0fa14de4fb03424d52fe88a74596124c2b1ffbc372",
+      "export_sha256": "fbc66b45d0ef8ca53bb60b0fa14de4fb03424d52fe88a74596124c2b1ffbc372",
+      "bytes": 1624
+    },
+    {
+      "trial_id": "study-05-dry-r1",
+      "role": "receiver",
+      "file": "answers/study-05-dry-r1-receiver.answer.txt",
+      "original_sha256": "53aa0e2ea33171a6e7a0633400fddab884ad37a844621cf0047b38af71b12505",
+      "export_sha256": "53aa0e2ea33171a6e7a0633400fddab884ad37a844621cf0047b38af71b12505",
+      "bytes": 1056
+    },
+    {
+      "trial_id": "study-05-dry_gloss-r1",
+      "role": "sender",
+      "file": "answers/study-05-dry_gloss-r1-sender.answer.txt",
+      "original_sha256": "2bc7dd2e17244de25291d5dcea5a4b741e7594c535bc46a46b84289425805194",
+      "export_sha256": "2bc7dd2e17244de25291d5dcea5a4b741e7594c535bc46a46b84289425805194",
+      "bytes": 1660
+    },
+    {
+      "trial_id": "study-05-dry_gloss-r1",
+      "role": "receiver",
+      "file": "answers/study-05-dry_gloss-r1-receiver.answer.txt",
+      "original_sha256": "49db4a9a8a30662e32fc4668fb4ec5276d1430697e623ba741875230753b6d77",
+      "export_sha256": "49db4a9a8a30662e32fc4668fb4ec5276d1430697e623ba741875230753b6d77",
+      "bytes": 1082
+    },
+    {
+      "trial_id": "study-06-structured_prose-r1",
+      "role": "sender",
+      "file": "answers/study-06-structured_prose-r1-sender.answer.txt",
+      "original_sha256": "60362dbc786cbd70b1ff5f2f5a3ea05f4990fd9b9789398c29ee0f9b57fc67bf",
+      "export_sha256": "60362dbc786cbd70b1ff5f2f5a3ea05f4990fd9b9789398c29ee0f9b57fc67bf",
+      "bytes": 1424
+    },
+    {
+      "trial_id": "study-06-structured_prose-r1",
+      "role": "receiver",
+      "file": "answers/study-06-structured_prose-r1-receiver.answer.txt",
+      "original_sha256": "9d2b1a1a7f97a0cf9ebb61b19659236ea33a17c71cf11ae29e6ed3ac1568654c",
+      "export_sha256": "9d2b1a1a7f97a0cf9ebb61b19659236ea33a17c71cf11ae29e6ed3ac1568654c",
+      "bytes": 1202
+    },
+    {
+      "trial_id": "study-06-dry-r1",
+      "role": "sender",
+      "file": "answers/study-06-dry-r1-sender.answer.txt",
+      "original_sha256": "1b7a23511d795ff74223d2a19fc588d674fc818e554b24f871878e34c671720b",
+      "export_sha256": "1b7a23511d795ff74223d2a19fc588d674fc818e554b24f871878e34c671720b",
+      "bytes": 2058
+    },
+    {
+      "trial_id": "study-06-dry-r1",
+      "role": "receiver",
+      "file": "answers/study-06-dry-r1-receiver.answer.txt",
+      "original_sha256": "84c57f04b30924becfffd0e7c026380c06c96333c31452acb8d2b05097b7b131",
+      "export_sha256": "84c57f04b30924becfffd0e7c026380c06c96333c31452acb8d2b05097b7b131",
+      "bytes": 1153
+    },
+    {
+      "trial_id": "study-06-dry_gloss-r1",
+      "role": "sender",
+      "file": "answers/study-06-dry_gloss-r1-sender.answer.txt",
+      "original_sha256": "e7fe64e157a4454b71e7872c96c429768c34c7a303f62636a3173be41d726279",
+      "export_sha256": "e7fe64e157a4454b71e7872c96c429768c34c7a303f62636a3173be41d726279",
+      "bytes": 1263
+    },
+    {
+      "trial_id": "study-06-dry_gloss-r1",
+      "role": "receiver",
+      "file": "answers/study-06-dry_gloss-r1-receiver.answer.txt",
+      "original_sha256": "70f1579b9ec569f83a3d2505977c70f2bd4d105635bc04b56fb31df02b69b2fe",
+      "export_sha256": "70f1579b9ec569f83a3d2505977c70f2bd4d105635bc04b56fb31df02b69b2fe",
+      "bytes": 1118
+    },
+    {
+      "trial_id": "study-06-natural_prose-r1",
+      "role": "sender",
+      "file": "answers/study-06-natural_prose-r1-sender.answer.txt",
+      "original_sha256": "f828e28deb033596a210fe25c4eb44a409ddd1c68571480782d1c017f410843f",
+      "export_sha256": "f828e28deb033596a210fe25c4eb44a409ddd1c68571480782d1c017f410843f",
+      "bytes": 1390
+    },
+    {
+      "trial_id": "study-06-natural_prose-r1",
+      "role": "receiver",
+      "file": "answers/study-06-natural_prose-r1-receiver.answer.txt",
+      "original_sha256": "7ebd99b0ad8ebc98b55119022b7d215ab5470c4c572f2a6263e6c40cc91115f0",
+      "export_sha256": "7ebd99b0ad8ebc98b55119022b7d215ab5470c4c572f2a6263e6c40cc91115f0",
+      "bytes": 1039
+    },
+    {
+      "trial_id": "study-07-dry-r1",
+      "role": "sender",
+      "file": "answers/study-07-dry-r1-sender.answer.txt",
+      "original_sha256": "781901b23f29666c96015ddcbb9b054cdfa96b706e176ab2b3491406c25ec154",
+      "export_sha256": "781901b23f29666c96015ddcbb9b054cdfa96b706e176ab2b3491406c25ec154",
+      "bytes": 1452
+    },
+    {
+      "trial_id": "study-07-dry-r1",
+      "role": "receiver",
+      "file": "answers/study-07-dry-r1-receiver.answer.txt",
+      "original_sha256": "813c65d36c6cf73d44a1946bddc6e6960bd90f33c2a1512eca0d598a9692d820",
+      "export_sha256": "813c65d36c6cf73d44a1946bddc6e6960bd90f33c2a1512eca0d598a9692d820",
+      "bytes": 1013
+    },
+    {
+      "trial_id": "study-07-dry_gloss-r1",
+      "role": "sender",
+      "file": "answers/study-07-dry_gloss-r1-sender.answer.txt",
+      "original_sha256": "aac55caac5c47f652b45a67e45ebfc94ec5e039e78073f45539245db75a4f3f3",
+      "export_sha256": "aac55caac5c47f652b45a67e45ebfc94ec5e039e78073f45539245db75a4f3f3",
+      "bytes": 1197
+    },
+    {
+      "trial_id": "study-07-dry_gloss-r1",
+      "role": "receiver",
+      "file": "answers/study-07-dry_gloss-r1-receiver.answer.txt",
+      "original_sha256": "795b4027f72758441a12f9a01b9bdadc7a778869f732aae16b2561452801e1d4",
+      "export_sha256": "795b4027f72758441a12f9a01b9bdadc7a778869f732aae16b2561452801e1d4",
+      "bytes": 1060
+    },
+    {
+      "trial_id": "study-07-natural_prose-r1",
+      "role": "sender",
+      "file": "answers/study-07-natural_prose-r1-sender.answer.txt",
+      "original_sha256": "56096d109f911f4109f3f38d21fe8469b2d91b234866e6d4dcccf71efa0bb814",
+      "export_sha256": "56096d109f911f4109f3f38d21fe8469b2d91b234866e6d4dcccf71efa0bb814",
+      "bytes": 1325
+    },
+    {
+      "trial_id": "study-07-natural_prose-r1",
+      "role": "receiver",
+      "file": "answers/study-07-natural_prose-r1-receiver.answer.txt",
+      "original_sha256": "afdecc0a1525ead5c92774991b3d6f055249b5cee04cc576c85dd57ae8b642ec",
+      "export_sha256": "afdecc0a1525ead5c92774991b3d6f055249b5cee04cc576c85dd57ae8b642ec",
+      "bytes": 1211
+    },
+    {
+      "trial_id": "study-07-structured_prose-r1",
+      "role": "sender",
+      "file": "answers/study-07-structured_prose-r1-sender.answer.txt",
+      "original_sha256": "551ce1b42ae7d90a4edc740279cc83c55aab30f73b4efa78ff0799b773b1f4d1",
+      "export_sha256": "551ce1b42ae7d90a4edc740279cc83c55aab30f73b4efa78ff0799b773b1f4d1",
+      "bytes": 1223
+    },
+    {
+      "trial_id": "study-07-structured_prose-r1",
+      "role": "receiver",
+      "file": "answers/study-07-structured_prose-r1-receiver.answer.txt",
+      "original_sha256": "b86a11c15154d2d613f67d385ad2886a09fb549d35b8960ef8e2135327237b54",
+      "export_sha256": "b86a11c15154d2d613f67d385ad2886a09fb549d35b8960ef8e2135327237b54",
+      "bytes": 1045
+    },
+    {
+      "trial_id": "study-08-dry_gloss-r1",
+      "role": "sender",
+      "file": "answers/study-08-dry_gloss-r1-sender.answer.txt",
+      "original_sha256": "9a4f61180802c73eba2a1c6b15b4a324b7fa1ca3e9ccc9fd67f46d14d19b5ba9",
+      "export_sha256": "9a4f61180802c73eba2a1c6b15b4a324b7fa1ca3e9ccc9fd67f46d14d19b5ba9",
+      "bytes": 1179
+    },
+    {
+      "trial_id": "study-08-dry_gloss-r1",
+      "role": "receiver",
+      "file": "answers/study-08-dry_gloss-r1-receiver.answer.txt",
+      "original_sha256": "dcac046755a4bf1d8a48469a562a58e951d8da81af36ad77562962249ee2f628",
+      "export_sha256": "dcac046755a4bf1d8a48469a562a58e951d8da81af36ad77562962249ee2f628",
+      "bytes": 1235
+    },
+    {
+      "trial_id": "study-08-natural_prose-r1",
+      "role": "sender",
+      "file": "answers/study-08-natural_prose-r1-sender.answer.txt",
+      "original_sha256": "4370a329c2b31cda47d5b3ce5429bc4aae126f7fcd6b111a47666022021933c7",
+      "export_sha256": "4370a329c2b31cda47d5b3ce5429bc4aae126f7fcd6b111a47666022021933c7",
+      "bytes": 1047
+    },
+    {
+      "trial_id": "study-08-natural_prose-r1",
+      "role": "receiver",
+      "file": "answers/study-08-natural_prose-r1-receiver.answer.txt",
+      "original_sha256": "071c259a8d0b9593ab5a00b9939bfde95dbba844f490c5f1b54c17f2819f4599",
+      "export_sha256": "071c259a8d0b9593ab5a00b9939bfde95dbba844f490c5f1b54c17f2819f4599",
+      "bytes": 872
+    },
+    {
+      "trial_id": "study-08-structured_prose-r1",
+      "role": "sender",
+      "file": "answers/study-08-structured_prose-r1-sender.answer.txt",
+      "original_sha256": "0c9cf4bf722afef04e9422234bba27999491a03601e601a5deab4e254dfd53de",
+      "export_sha256": "0c9cf4bf722afef04e9422234bba27999491a03601e601a5deab4e254dfd53de",
+      "bytes": 1267
+    },
+    {
+      "trial_id": "study-08-structured_prose-r1",
+      "role": "receiver",
+      "file": "answers/study-08-structured_prose-r1-receiver.answer.txt",
+      "original_sha256": "ca82273fbbbca7e0c74979f4bce82769bd3d49cd3b39714cc61ec363c7c67314",
+      "export_sha256": "ca82273fbbbca7e0c74979f4bce82769bd3d49cd3b39714cc61ec363c7c67314",
+      "bytes": 1118
+    },
+    {
+      "trial_id": "study-08-dry-r1",
+      "role": "sender",
+      "file": "answers/study-08-dry-r1-sender.answer.txt",
+      "original_sha256": "eeb05187261aac7c5196011272c886d6f71a9e8695e217e20ef969904c9e2950",
+      "export_sha256": "eeb05187261aac7c5196011272c886d6f71a9e8695e217e20ef969904c9e2950",
+      "bytes": 1278
+    },
+    {
+      "trial_id": "study-08-dry-r1",
+      "role": "receiver",
+      "file": "answers/study-08-dry-r1-receiver.answer.txt",
+      "original_sha256": "10fe5c29d21f8310fe6212a81d82ac99d561d6b00142d695bdeb09baa7734e63",
+      "export_sha256": "10fe5c29d21f8310fe6212a81d82ac99d561d6b00142d695bdeb09baa7734e63",
+      "bytes": 1251
+    },
+    {
+      "trial_id": "study-08-structured_prose-r2",
+      "role": "sender",
+      "file": "answers/study-08-structured_prose-r2-sender.answer.txt",
+      "original_sha256": "65b0ec570a8f57f03e0cee909bf64f1cd3a9010a2247b286c52105e6f17e5d0b",
+      "export_sha256": "65b0ec570a8f57f03e0cee909bf64f1cd3a9010a2247b286c52105e6f17e5d0b",
+      "bytes": 1310
+    },
+    {
+      "trial_id": "study-08-structured_prose-r2",
+      "role": "receiver",
+      "file": "answers/study-08-structured_prose-r2-receiver.answer.txt",
+      "original_sha256": "ee860f08834c579da00238362a641c0c79cdc2d936b098a81d1c3660afc11e3b",
+      "export_sha256": "ee860f08834c579da00238362a641c0c79cdc2d936b098a81d1c3660afc11e3b",
+      "bytes": 1250
+    },
+    {
+      "trial_id": "study-08-dry-r2",
+      "role": "sender",
+      "file": "answers/study-08-dry-r2-sender.answer.txt",
+      "original_sha256": "67828f93177068e87a5a3f717437b670d05cf4b5e5d812f481622d87dccb9db3",
+      "export_sha256": "67828f93177068e87a5a3f717437b670d05cf4b5e5d812f481622d87dccb9db3",
+      "bytes": 1486
+    },
+    {
+      "trial_id": "study-08-dry-r2",
+      "role": "receiver",
+      "file": "answers/study-08-dry-r2-receiver.answer.txt",
+      "original_sha256": "390e8dc91dcfcd24ed35965043555759a64c54c47860f46db8aa502d0808972d",
+      "export_sha256": "390e8dc91dcfcd24ed35965043555759a64c54c47860f46db8aa502d0808972d",
+      "bytes": 1158
+    },
+    {
+      "trial_id": "study-08-dry_gloss-r2",
+      "role": "sender",
+      "file": "answers/study-08-dry_gloss-r2-sender.answer.txt",
+      "original_sha256": "2be99dcc625e9cd856f682294cda808d8ef5c7b4a984393428517b090addb8eb",
+      "export_sha256": "2be99dcc625e9cd856f682294cda808d8ef5c7b4a984393428517b090addb8eb",
+      "bytes": 1419
+    },
+    {
+      "trial_id": "study-08-dry_gloss-r2",
+      "role": "receiver",
+      "file": "answers/study-08-dry_gloss-r2-receiver.answer.txt",
+      "original_sha256": "80106b729170e4b8d25958e6c85b73ba02b23a7d8ba9e17836e84717385a1fb1",
+      "export_sha256": "80106b729170e4b8d25958e6c85b73ba02b23a7d8ba9e17836e84717385a1fb1",
+      "bytes": 1107
+    },
+    {
+      "trial_id": "study-08-natural_prose-r2",
+      "role": "sender",
+      "file": "answers/study-08-natural_prose-r2-sender.answer.txt",
+      "original_sha256": "34d45cf2c50e6de82d5adf5b2becf98d53f8f3dc5943db102745cea515668242",
+      "export_sha256": "34d45cf2c50e6de82d5adf5b2becf98d53f8f3dc5943db102745cea515668242",
+      "bytes": 1162
+    },
+    {
+      "trial_id": "study-08-natural_prose-r2",
+      "role": "receiver",
+      "file": "answers/study-08-natural_prose-r2-receiver.answer.txt",
+      "original_sha256": "1781ce868878ac70009e37c07ae5e398be896a9528de103375c1a091c7482a5f",
+      "export_sha256": "1781ce868878ac70009e37c07ae5e398be896a9528de103375c1a091c7482a5f",
+      "bytes": 1033
+    },
+    {
+      "trial_id": "study-07-natural_prose-r2",
+      "role": "sender",
+      "file": "answers/study-07-natural_prose-r2-sender.answer.txt",
+      "original_sha256": "ec02a4ed479d4c967a77e22d9705a3038259781e1ae210dd768f8777e3ce4ae9",
+      "export_sha256": "ec02a4ed479d4c967a77e22d9705a3038259781e1ae210dd768f8777e3ce4ae9",
+      "bytes": 1520
+    },
+    {
+      "trial_id": "study-07-natural_prose-r2",
+      "role": "receiver",
+      "file": "answers/study-07-natural_prose-r2-receiver.answer.txt",
+      "original_sha256": "da33bd4a69f645f37cf746ed9d2914eb2f8f94a12d36d908debc8db2f5208fd8",
+      "export_sha256": "da33bd4a69f645f37cf746ed9d2914eb2f8f94a12d36d908debc8db2f5208fd8",
+      "bytes": 1228
+    },
+    {
+      "trial_id": "study-07-structured_prose-r2",
+      "role": "sender",
+      "file": "answers/study-07-structured_prose-r2-sender.answer.txt",
+      "original_sha256": "10222ef260782b0bb93e73bfa776ca710207a74fece15e30cd8ecb265793bcc1",
+      "export_sha256": "10222ef260782b0bb93e73bfa776ca710207a74fece15e30cd8ecb265793bcc1",
+      "bytes": 1574
+    },
+    {
+      "trial_id": "study-07-structured_prose-r2",
+      "role": "receiver",
+      "file": "answers/study-07-structured_prose-r2-receiver.answer.txt",
+      "original_sha256": "4e9db5cf72e0c93918256ba8b16c6b4a84d9a04c12ce738eefb552346a410b76",
+      "export_sha256": "4e9db5cf72e0c93918256ba8b16c6b4a84d9a04c12ce738eefb552346a410b76",
+      "bytes": 1126
+    },
+    {
+      "trial_id": "study-07-dry-r2",
+      "role": "sender",
+      "file": "answers/study-07-dry-r2-sender.answer.txt",
+      "original_sha256": "24a5093ba82731175356f7bd9e3761118f173d944cdc4017d224e7c3651c9f48",
+      "export_sha256": "24a5093ba82731175356f7bd9e3761118f173d944cdc4017d224e7c3651c9f48",
+      "bytes": 1355
+    },
+    {
+      "trial_id": "study-07-dry-r2",
+      "role": "receiver",
+      "file": "answers/study-07-dry-r2-receiver.answer.txt",
+      "original_sha256": "7197b54789d248381c9c092f2d350e0b303d1410ac0cce391314c5a7fc14ea3d",
+      "export_sha256": "7197b54789d248381c9c092f2d350e0b303d1410ac0cce391314c5a7fc14ea3d",
+      "bytes": 994
+    },
+    {
+      "trial_id": "study-07-dry_gloss-r2",
+      "role": "sender",
+      "file": "answers/study-07-dry_gloss-r2-sender.answer.txt",
+      "original_sha256": "d240538f3560edfc00a821f27a394840f9b90f7926917707fd5390e7d56566a3",
+      "export_sha256": "d240538f3560edfc00a821f27a394840f9b90f7926917707fd5390e7d56566a3",
+      "bytes": 1385
+    },
+    {
+      "trial_id": "study-07-dry_gloss-r2",
+      "role": "receiver",
+      "file": "answers/study-07-dry_gloss-r2-receiver.answer.txt",
+      "original_sha256": "a985fe93d4d97e6a311955f5d1b04301ad1583eac34433f2304b4f9bf0c797df",
+      "export_sha256": "a985fe93d4d97e6a311955f5d1b04301ad1583eac34433f2304b4f9bf0c797df",
+      "bytes": 1061
+    },
+    {
+      "trial_id": "study-06-dry_gloss-r2",
+      "role": "sender",
+      "file": "answers/study-06-dry_gloss-r2-sender.answer.txt",
+      "original_sha256": "3d788871c43457991a86d5d71b1c7976febdd8c18712d537dd58216715cbcced",
+      "export_sha256": "3d788871c43457991a86d5d71b1c7976febdd8c18712d537dd58216715cbcced",
+      "bytes": 1582
+    },
+    {
+      "trial_id": "study-06-dry_gloss-r2",
+      "role": "receiver",
+      "file": "answers/study-06-dry_gloss-r2-receiver.answer.txt",
+      "original_sha256": "1093ecd67bced36a24dd0f98ea93afbb999cefa6bce849b1737f5c4a66442769",
+      "export_sha256": "1093ecd67bced36a24dd0f98ea93afbb999cefa6bce849b1737f5c4a66442769",
+      "bytes": 1280
+    },
+    {
+      "trial_id": "study-06-natural_prose-r2",
+      "role": "sender",
+      "file": "answers/study-06-natural_prose-r2-sender.answer.txt",
+      "original_sha256": "87099fc5120b05281f9f7cde04d1dbb088149d3340e2d56bbac9714780ed8ce2",
+      "export_sha256": "87099fc5120b05281f9f7cde04d1dbb088149d3340e2d56bbac9714780ed8ce2",
+      "bytes": 1332
+    },
+    {
+      "trial_id": "study-06-natural_prose-r2",
+      "role": "receiver",
+      "file": "answers/study-06-natural_prose-r2-receiver.answer.txt",
+      "original_sha256": "ddc42afd44be836fef46c3fd56130ae36d324a0ae3cf66582b28ae1c11c0646b",
+      "export_sha256": "ddc42afd44be836fef46c3fd56130ae36d324a0ae3cf66582b28ae1c11c0646b",
+      "bytes": 1091
+    },
+    {
+      "trial_id": "study-06-structured_prose-r2",
+      "role": "sender",
+      "file": "answers/study-06-structured_prose-r2-sender.answer.txt",
+      "original_sha256": "d83c6c9288b64a667dd99627a4816d4a6649dcdfa45a9440d9ab4581c8ae12ac",
+      "export_sha256": "d83c6c9288b64a667dd99627a4816d4a6649dcdfa45a9440d9ab4581c8ae12ac",
+      "bytes": 1589
+    },
+    {
+      "trial_id": "study-06-structured_prose-r2",
+      "role": "receiver",
+      "file": "answers/study-06-structured_prose-r2-receiver.answer.txt",
+      "original_sha256": "9f42f419afdcba5341749b1d282cdb0d305f834207b8842730b4ca7f1271770e",
+      "export_sha256": "9f42f419afdcba5341749b1d282cdb0d305f834207b8842730b4ca7f1271770e",
+      "bytes": 1203
+    },
+    {
+      "trial_id": "study-06-dry-r2",
+      "role": "sender",
+      "file": "answers/study-06-dry-r2-sender.answer.txt",
+      "original_sha256": "ee8c9c4d316561e754ef9f4fa1543d8786a0574eaba4fc03c5a1b03b939af95d",
+      "export_sha256": "ee8c9c4d316561e754ef9f4fa1543d8786a0574eaba4fc03c5a1b03b939af95d",
+      "bytes": 1698
+    },
+    {
+      "trial_id": "study-06-dry-r2",
+      "role": "receiver",
+      "file": "answers/study-06-dry-r2-receiver.answer.txt",
+      "original_sha256": "69acfbaabc3d7ebfa9526b45a46514dd7ca8b50a2d90c085a8593f6da4367d34",
+      "export_sha256": "69acfbaabc3d7ebfa9526b45a46514dd7ca8b50a2d90c085a8593f6da4367d34",
+      "bytes": 1212
+    },
+    {
+      "trial_id": "study-05-dry-r2",
+      "role": "sender",
+      "file": "answers/study-05-dry-r2-sender.answer.txt",
+      "original_sha256": "a6e0025f379cbd85132b19ea04e94315b5ccc6abdab72c15457cc6f9a7e13c6b",
+      "export_sha256": "a6e0025f379cbd85132b19ea04e94315b5ccc6abdab72c15457cc6f9a7e13c6b",
+      "bytes": 1670
+    },
+    {
+      "trial_id": "study-05-dry-r2",
+      "role": "receiver",
+      "file": "answers/study-05-dry-r2-receiver.answer.txt",
+      "original_sha256": "82deff67d892b100143ce96b461a3325b38609da14fc48e172622613f41e11b2",
+      "export_sha256": "82deff67d892b100143ce96b461a3325b38609da14fc48e172622613f41e11b2",
+      "bytes": 1008
+    },
+    {
+      "trial_id": "study-05-dry_gloss-r2",
+      "role": "sender",
+      "file": "answers/study-05-dry_gloss-r2-sender.answer.txt",
+      "original_sha256": "29156ecb3d7fbe73497ebc590de997f2c60214d3a4f2d21437934b785031820c",
+      "export_sha256": "29156ecb3d7fbe73497ebc590de997f2c60214d3a4f2d21437934b785031820c",
+      "bytes": 1418
+    },
+    {
+      "trial_id": "study-05-dry_gloss-r2",
+      "role": "receiver",
+      "file": "answers/study-05-dry_gloss-r2-receiver.answer.txt",
+      "original_sha256": "d297650afbb1cfedb641b62e7db6f355ebb3e8e09d9d1d95cd7879de4e3062d0",
+      "export_sha256": "d297650afbb1cfedb641b62e7db6f355ebb3e8e09d9d1d95cd7879de4e3062d0",
+      "bytes": 1190
+    },
+    {
+      "trial_id": "study-05-natural_prose-r2",
+      "role": "sender",
+      "file": "answers/study-05-natural_prose-r2-sender.answer.txt",
+      "original_sha256": "5fa5da272fa771bc8696f1eb801dc0652907226b8c90d5d4b60650d1539b0328",
+      "export_sha256": "5fa5da272fa771bc8696f1eb801dc0652907226b8c90d5d4b60650d1539b0328",
+      "bytes": 1973
+    },
+    {
+      "trial_id": "study-05-natural_prose-r2",
+      "role": "receiver",
+      "file": "answers/study-05-natural_prose-r2-receiver.answer.txt",
+      "original_sha256": "1ebc88fccb4fc10096e1a9e15e723520a67aa8208211600cc6815516ec57d93e",
+      "export_sha256": "1ebc88fccb4fc10096e1a9e15e723520a67aa8208211600cc6815516ec57d93e",
+      "bytes": 1369
+    },
+    {
+      "trial_id": "study-05-structured_prose-r2",
+      "role": "sender",
+      "file": "answers/study-05-structured_prose-r2-sender.answer.txt",
+      "original_sha256": "0d8c44c222f20c1090b277e03229e0c81953b6f1a0f0384fe5d94b795c83dbe7",
+      "export_sha256": "0d8c44c222f20c1090b277e03229e0c81953b6f1a0f0384fe5d94b795c83dbe7",
+      "bytes": 1399
+    },
+    {
+      "trial_id": "study-05-structured_prose-r2",
+      "role": "receiver",
+      "file": "answers/study-05-structured_prose-r2-receiver.answer.txt",
+      "original_sha256": "d32c2a2ce44819262632e9710f496367d53ac7e456ccefed683927e21af8001a",
+      "export_sha256": "d32c2a2ce44819262632e9710f496367d53ac7e456ccefed683927e21af8001a",
+      "bytes": 1243
+    },
+    {
+      "trial_id": "study-04-structured_prose-r2",
+      "role": "sender",
+      "file": "answers/study-04-structured_prose-r2-sender.answer.txt",
+      "original_sha256": "046b7f44e05dd25f8e8befc729e62246ab808fe757a48f2d37461356be1f21d4",
+      "export_sha256": "046b7f44e05dd25f8e8befc729e62246ab808fe757a48f2d37461356be1f21d4",
+      "bytes": 1295
+    },
+    {
+      "trial_id": "study-04-structured_prose-r2",
+      "role": "receiver",
+      "file": "answers/study-04-structured_prose-r2-receiver.answer.txt",
+      "original_sha256": "906272652ea6d42735016b8df371449ca97a03f6a783382c605c5acdf244cbb3",
+      "export_sha256": "906272652ea6d42735016b8df371449ca97a03f6a783382c605c5acdf244cbb3",
+      "bytes": 1169
+    },
+    {
+      "trial_id": "study-04-dry-r2",
+      "role": "sender",
+      "file": "answers/study-04-dry-r2-sender.answer.txt",
+      "original_sha256": "0042cee8115ef3bfee5c858af97b339ffe3ce171fef64e78fd2fdc577eb02c41",
+      "export_sha256": "0042cee8115ef3bfee5c858af97b339ffe3ce171fef64e78fd2fdc577eb02c41",
+      "bytes": 1691
+    },
+    {
+      "trial_id": "study-04-dry-r2",
+      "role": "receiver",
+      "file": "answers/study-04-dry-r2-receiver.answer.txt",
+      "original_sha256": "5830cfb3516bcdae00e9a2dbe6c29e2968b863c233896bbdbece599e477d4541",
+      "export_sha256": "5830cfb3516bcdae00e9a2dbe6c29e2968b863c233896bbdbece599e477d4541",
+      "bytes": 1064
+    },
+    {
+      "trial_id": "study-04-dry_gloss-r2",
+      "role": "sender",
+      "file": "answers/study-04-dry_gloss-r2-sender.answer.txt",
+      "original_sha256": "4098e851b654dc02ee77546360a48573662b7b4dbabcb2fdb455f35cfe422561",
+      "export_sha256": "4098e851b654dc02ee77546360a48573662b7b4dbabcb2fdb455f35cfe422561",
+      "bytes": 1381
+    },
+    {
+      "trial_id": "study-04-dry_gloss-r2",
+      "role": "receiver",
+      "file": "answers/study-04-dry_gloss-r2-receiver.answer.txt",
+      "original_sha256": "68b784793b6a29074fa7e77feace39a504a6e99882e7e1b73bd459af3541c247",
+      "export_sha256": "68b784793b6a29074fa7e77feace39a504a6e99882e7e1b73bd459af3541c247",
+      "bytes": 1466
+    },
+    {
+      "trial_id": "study-04-natural_prose-r2",
+      "role": "sender",
+      "file": "answers/study-04-natural_prose-r2-sender.answer.txt",
+      "original_sha256": "6e226872e7162286b422bac7faccafdc283c220088d253ced584c8dcd74eae13",
+      "export_sha256": "6e226872e7162286b422bac7faccafdc283c220088d253ced584c8dcd74eae13",
+      "bytes": 1121
+    },
+    {
+      "trial_id": "study-04-natural_prose-r2",
+      "role": "receiver",
+      "file": "answers/study-04-natural_prose-r2-receiver.answer.txt",
+      "original_sha256": "ad3d4ca1803b2b292ba9f45c431f692f71fb2f08002560fd9642c544b7ff222d",
+      "export_sha256": "ad3d4ca1803b2b292ba9f45c431f692f71fb2f08002560fd9642c544b7ff222d",
+      "bytes": 1033
+    },
+    {
+      "trial_id": "study-03-natural_prose-r2",
+      "role": "sender",
+      "file": "answers/study-03-natural_prose-r2-sender.answer.txt",
+      "original_sha256": "48772502c2e01249fa1e1d6a446f1ccdeebe326027c6ff64a0a78833f02d4941",
+      "export_sha256": "48772502c2e01249fa1e1d6a446f1ccdeebe326027c6ff64a0a78833f02d4941",
+      "bytes": 1055
+    },
+    {
+      "trial_id": "study-03-natural_prose-r2",
+      "role": "receiver",
+      "file": "answers/study-03-natural_prose-r2-receiver.answer.txt",
+      "original_sha256": "1da4d95cbd07d731407099c40677bc9f2466f8e86619bda595802f92afb83a82",
+      "export_sha256": "1da4d95cbd07d731407099c40677bc9f2466f8e86619bda595802f92afb83a82",
+      "bytes": 1006
+    },
+    {
+      "trial_id": "study-03-structured_prose-r2",
+      "role": "sender",
+      "file": "answers/study-03-structured_prose-r2-sender.answer.txt",
+      "original_sha256": "3a415e94ba7e9df392395ea0e6dd41792976b25532de5c903a9dda2ca2a9a3e3",
+      "export_sha256": "3a415e94ba7e9df392395ea0e6dd41792976b25532de5c903a9dda2ca2a9a3e3",
+      "bytes": 1475
+    },
+    {
+      "trial_id": "study-03-structured_prose-r2",
+      "role": "receiver",
+      "file": "answers/study-03-structured_prose-r2-receiver.answer.txt",
+      "original_sha256": "75107ae2694d2fc4686fc3ea0378b0192d86f4c6ed885799592ad72225f93f41",
+      "export_sha256": "75107ae2694d2fc4686fc3ea0378b0192d86f4c6ed885799592ad72225f93f41",
+      "bytes": 1316
+    },
+    {
+      "trial_id": "study-03-dry-r2",
+      "role": "sender",
+      "file": "answers/study-03-dry-r2-sender.answer.txt",
+      "original_sha256": "6b0213a623b10b431eda8627f710acf48e6e44d1c18e2d8ebf4a0dfd5dfa3342",
+      "export_sha256": "6b0213a623b10b431eda8627f710acf48e6e44d1c18e2d8ebf4a0dfd5dfa3342",
+      "bytes": 1288
+    },
+    {
+      "trial_id": "study-03-dry-r2",
+      "role": "receiver",
+      "file": "answers/study-03-dry-r2-receiver.answer.txt",
+      "original_sha256": "ab7043ce0e1033a0fb298a01b3aaafed87affdb5e8b134f465c38fc0373aee78",
+      "export_sha256": "ab7043ce0e1033a0fb298a01b3aaafed87affdb5e8b134f465c38fc0373aee78",
+      "bytes": 1201
+    },
+    {
+      "trial_id": "study-03-dry_gloss-r2",
+      "role": "sender",
+      "file": "answers/study-03-dry_gloss-r2-sender.answer.txt",
+      "original_sha256": "db285c834505797d03048c1c4e9d6348e54d07b9289e931940b088a617f234eb",
+      "export_sha256": "db285c834505797d03048c1c4e9d6348e54d07b9289e931940b088a617f234eb",
+      "bytes": 1275
+    },
+    {
+      "trial_id": "study-03-dry_gloss-r2",
+      "role": "receiver",
+      "file": "answers/study-03-dry_gloss-r2-receiver.answer.txt",
+      "original_sha256": "6c004a85a856f59281bd8996c60c4f844baba2df7aec74decc8ff8b8f0df43bc",
+      "export_sha256": "6c004a85a856f59281bd8996c60c4f844baba2df7aec74decc8ff8b8f0df43bc",
+      "bytes": 1175
+    },
+    {
+      "trial_id": "study-02-dry_gloss-r2",
+      "role": "sender",
+      "file": "answers/study-02-dry_gloss-r2-sender.answer.txt",
+      "original_sha256": "808c18d5d80d75063b4cf92fa84a4696b2349ba0292d9bb7dbc77e291d647092",
+      "export_sha256": "808c18d5d80d75063b4cf92fa84a4696b2349ba0292d9bb7dbc77e291d647092",
+      "bytes": 1672
+    },
+    {
+      "trial_id": "study-02-dry_gloss-r2",
+      "role": "receiver",
+      "file": "answers/study-02-dry_gloss-r2-receiver.answer.txt",
+      "original_sha256": "b685450ff2ee612d937196cb639f52a186a17e90b85e41a3bf10d9b6e34c5196",
+      "export_sha256": "b685450ff2ee612d937196cb639f52a186a17e90b85e41a3bf10d9b6e34c5196",
+      "bytes": 1204
+    },
+    {
+      "trial_id": "study-02-natural_prose-r2",
+      "role": "sender",
+      "file": "answers/study-02-natural_prose-r2-sender.answer.txt",
+      "original_sha256": "ca0ac3cfa463ba0e06fbdf560d7f7feb91997fc6b3cb56657045de39bc79027a",
+      "export_sha256": "ca0ac3cfa463ba0e06fbdf560d7f7feb91997fc6b3cb56657045de39bc79027a",
+      "bytes": 1338
+    },
+    {
+      "trial_id": "study-02-natural_prose-r2",
+      "role": "receiver",
+      "file": "answers/study-02-natural_prose-r2-receiver.answer.txt",
+      "original_sha256": "c82916a77c2f49f314fb4980f571ca947db635cd576fd4c6e7a09c9fb8670106",
+      "export_sha256": "c82916a77c2f49f314fb4980f571ca947db635cd576fd4c6e7a09c9fb8670106",
+      "bytes": 1145
+    },
+    {
+      "trial_id": "study-02-structured_prose-r2",
+      "role": "sender",
+      "file": "answers/study-02-structured_prose-r2-sender.answer.txt",
+      "original_sha256": "986a50ad4ef1e5f119c0fa7edcca16132081faad14b222108e978658f9e52c0f",
+      "export_sha256": "986a50ad4ef1e5f119c0fa7edcca16132081faad14b222108e978658f9e52c0f",
+      "bytes": 1399
+    },
+    {
+      "trial_id": "study-02-structured_prose-r2",
+      "role": "receiver",
+      "file": "answers/study-02-structured_prose-r2-receiver.answer.txt",
+      "original_sha256": "b33fad5e8ded48287b4525e3e6b2ba9e365c84c0d8c7b432bcd2b16dbf6e2a47",
+      "export_sha256": "b33fad5e8ded48287b4525e3e6b2ba9e365c84c0d8c7b432bcd2b16dbf6e2a47",
+      "bytes": 1262
+    },
+    {
+      "trial_id": "study-02-dry-r2",
+      "role": "sender",
+      "file": "answers/study-02-dry-r2-sender.answer.txt",
+      "original_sha256": "ec0e89efe88b9950881272cf2cb09ceb5c17cad862e35b12f48cdf6fab5df433",
+      "export_sha256": "ec0e89efe88b9950881272cf2cb09ceb5c17cad862e35b12f48cdf6fab5df433",
+      "bytes": 1663
+    },
+    {
+      "trial_id": "study-02-dry-r2",
+      "role": "receiver",
+      "file": "answers/study-02-dry-r2-receiver.answer.txt",
+      "original_sha256": "0dd599e1664d251bf7ac7602fa27f56bd7f65f1c7fac1a199e569a8bc1e36546",
+      "export_sha256": "0dd599e1664d251bf7ac7602fa27f56bd7f65f1c7fac1a199e569a8bc1e36546",
+      "bytes": 1139
+    },
+    {
+      "trial_id": "study-01-dry-r2",
+      "role": "sender",
+      "file": "answers/study-01-dry-r2-sender.answer.txt",
+      "original_sha256": "aecdea6e52c4ed19809195ca72030a338dbd7cd2d7f0b5bbb1bbefaec8defbac",
+      "export_sha256": "aecdea6e52c4ed19809195ca72030a338dbd7cd2d7f0b5bbb1bbefaec8defbac",
+      "bytes": 1513
+    },
+    {
+      "trial_id": "study-01-dry-r2",
+      "role": "receiver",
+      "file": "answers/study-01-dry-r2-receiver.answer.txt",
+      "original_sha256": "90440de74232b2f8cd58e74c48e09edeb691bfe7080101811693adca3a66f628",
+      "export_sha256": "90440de74232b2f8cd58e74c48e09edeb691bfe7080101811693adca3a66f628",
+      "bytes": 1105
+    },
+    {
+      "trial_id": "study-01-dry_gloss-r2",
+      "role": "sender",
+      "file": "answers/study-01-dry_gloss-r2-sender.answer.txt",
+      "original_sha256": "34e623718808f6ed49148cd571c7d224a0147437427e429128aef4a3f02e757e",
+      "export_sha256": "34e623718808f6ed49148cd571c7d224a0147437427e429128aef4a3f02e757e",
+      "bytes": 1290
+    },
+    {
+      "trial_id": "study-01-dry_gloss-r2",
+      "role": "receiver",
+      "file": "answers/study-01-dry_gloss-r2-receiver.answer.txt",
+      "original_sha256": "b2ad00bf07faffd438fbb77ae47e2083427892ebda2e5f57424bb6787afb2d2c",
+      "export_sha256": "b2ad00bf07faffd438fbb77ae47e2083427892ebda2e5f57424bb6787afb2d2c",
+      "bytes": 1213
+    },
+    {
+      "trial_id": "study-01-natural_prose-r2",
+      "role": "sender",
+      "file": "answers/study-01-natural_prose-r2-sender.answer.txt",
+      "original_sha256": "1789b5ef2f8f52ac165e1c12e85ab7baa44a9e7dce0c4d1e5236b60759140caa",
+      "export_sha256": "1789b5ef2f8f52ac165e1c12e85ab7baa44a9e7dce0c4d1e5236b60759140caa",
+      "bytes": 1391
+    },
+    {
+      "trial_id": "study-01-natural_prose-r2",
+      "role": "receiver",
+      "file": "answers/study-01-natural_prose-r2-receiver.answer.txt",
+      "original_sha256": "68e066aa35a32c9732dd98ed53cc1bc89efa64de723ee4a52eb8ec1bc83785e2",
+      "export_sha256": "68e066aa35a32c9732dd98ed53cc1bc89efa64de723ee4a52eb8ec1bc83785e2",
+      "bytes": 1265
+    },
+    {
+      "trial_id": "study-01-structured_prose-r2",
+      "role": "sender",
+      "file": "answers/study-01-structured_prose-r2-sender.answer.txt",
+      "original_sha256": "6737a81c024f2d617f43dd61198947fa37a3476670ba87a7d4e069f596bb93e8",
+      "export_sha256": "6737a81c024f2d617f43dd61198947fa37a3476670ba87a7d4e069f596bb93e8",
+      "bytes": 1207
+    },
+    {
+      "trial_id": "study-01-structured_prose-r2",
+      "role": "receiver",
+      "file": "answers/study-01-structured_prose-r2-receiver.answer.txt",
+      "original_sha256": "c8413f9fe05c9383cf3bb0ca54f32aff515d9d0f83b3ebc5749444569888a8c4",
+      "export_sha256": "c8413f9fe05c9383cf3bb0ca54f32aff515d9d0f83b3ebc5749444569888a8c4",
+      "bytes": 1165
+    }
+  ],
+  "public_files": {
+    "carriers.json": {
+      "sha256": "d4839a549d10d44fced90ff3f8d125b7f90dc544bcae36371e73ebbba18667b9",
+      "bytes": 7601
+    },
+    "cases.json": {
+      "sha256": "04eac419750ee77d9e4c10b4a49d91e89bf3bea97b55ea9de6c82ff79c6fb05e",
+      "bytes": 4300
+    },
+    "gold.json": {
+      "sha256": "2ca4050b16416df2bc12474ba9b0e613ef74b053aed4a0869a6e5ade17fd3aeb",
+      "bytes": 7631
+    },
+    "primer.txt": {
+      "sha256": "5a097a91c1e68a3d88f4e04846ee6ad78490c0a9d46f0832be591a1722cb6ba8",
+      "bytes": 1443
+    },
+    "README.md": {
+      "sha256": "43dcf7a9ea7b279eab22d6c8c94b385423c789da2642c25933d1fde2428e262e",
+      "bytes": 3671
+    },
+    "receiver.txt": {
+      "sha256": "c4067ede6279c84308ecc315147e8642b315e9f5b83709de5392ee711e4805a5",
+      "bytes": 976
+    },
+    "scores.json": {
+      "sha256": "6e61e04352bbcd36f6685c459145f55a09db33f689efec503316bd0f08d176e8",
+      "bytes": 29303
+    },
+    "sender.txt": {
+      "sha256": "6f6419ff00e16d21c65c26858e6ca769aef5e59f4532af630757ebe8feef19dc",
+      "bytes": 917
+    },
+    "trials.json": {
+      "sha256": "b7e9d928c12a5fb3b99482fcc410c6a681f003d79b3942b5184cdd4c703329a0",
+      "bytes": 32328
+    }
+  }
+}

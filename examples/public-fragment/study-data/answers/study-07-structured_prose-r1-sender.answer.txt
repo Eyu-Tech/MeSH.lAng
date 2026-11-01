@@ -1,0 +1,7 @@
+{
+  "case_id": "study-07",
+  "process_carrier": "State (sigma): Make the connection among the relevant records explicit, then integrate those parts into a coherent articulation.\nTrajectory (tau): Turn the coherent articulation into an explicit handoff.",
+  "state_reading": "The State is स\\a followed by द\\i: make the connections among the relevant records explicit, then integrate them into a coherent articulation.",
+  "trajectory_reading": "The Trajectory is क\\a: turn that coherent articulation into an explicit handoff. The directed transition carries the State into the Trajectory; it does not mean they are equal or that the direction is reversed.",
+  "handoff": "Case study-07, domain: schema migration. Goal G-AURORA. G-AURORA/r3, selected to make the new field required immediately, is superseded. The current reviewed decision is G-AURORA/r4: add the new field as optional until all consumers can read it. G-PEBBLE/r4 concerns a different goal—requiring a different field in a separate service—and has not been accepted into G-AURORA. Consumer readiness date: unresolved; no value is specified. The intended transition is to hand off this coherent account of the current decision and its status."
+}

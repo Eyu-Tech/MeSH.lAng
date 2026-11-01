@@ -1,0 +1,7 @@
+{
+  "case_id": "study-08",
+  "process_carrier": "State (sigma):\n◊ द\\i → स\\a ;\n\nTrajectory (tau):\n◊ स\\a → क\\i ;",
+  "state_reading": "The disposition to carry forward is to integrate material through a handoff, then make a connection explicit. For this offline-editing case, that means carrying forward the current reviewed decision and making its connection to the workflow explicit.",
+  "trajectory_reading": "The intended transition is to make a connection explicit, then integrate material through articulation. Applied here, make the link between syncing and conflict review explicit, then bring the edits into the workflow through that articulation.",
+  "handoff": "Case study-08 concerns offline editing. G-LOOM/r1, which selected overwriting the server copy on reconnect, is superseded. The current reviewed decision is G-LOOM/r2: store edits locally offline and require visible conflict review after sync. The intended transition is to make the sync-to-conflict-review connection explicit, then integrate the edits through articulation. G-PLUME/r2 belongs to a different goal and workflow: auto-merge image labels in another workflow. It has not been accepted into G-LOOM. The maximum offline storage size is unresolved; no value is specified."
+}

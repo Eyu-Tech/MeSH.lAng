@@ -1,0 +1,7 @@
+{
+  "case_id": "study-04",
+  "process_carrier": "State (sigma): Integrate relevant material through a handoff, then make its connections explicit.\nTrajectory (tau): Turn those explicit connections into a coherent articulation for the next participant.",
+  "state_reading": "The State carries forward relevant material by integrating it through a handoff, then making its connections explicit. For this case, it means preserving the reviewed access decision and its relationship to the superseded and separate goals.",
+  "trajectory_reading": "The Trajectory directs those explicit connections into a coherent articulation for the next participant. It carries the State forward; it does not reverse or equate the two.",
+  "handoff": "Case study-04 concerns access control for goal G-MAPLE. G-MAPLE/r5 is the current reviewed decision: read-only incident access for support through the existing role boundary. G-MAPLE/r4, temporary support write access, is superseded. G-EMBER/r5 concerns a different goal, admin write access to maintenance records; it has not been accepted into G-MAPLE. The incident access expiry period is unresolved; no value is specified. Carry forward the current G-MAPLE/r5 decision and these distinctions."
+}

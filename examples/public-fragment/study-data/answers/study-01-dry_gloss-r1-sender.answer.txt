@@ -1,0 +1,7 @@
+{
+  "case_id": "study-01",
+  "process_carrier": "State (sigma):\n◊ स\\a → द\\i ;\n\nTrajectory (tau):\n◊ द\\i → क\\a ;",
+  "state_reading": "Make the connection among the relevant records explicit, then integrate them through a handoff. For this case, carry forward the current reviewed decision for G-ORBIT: G-ORBIT/r3 specifies a manual approval gate for staging while rollback is tested. Keep the superseded G-ORBIT/r2 decision distinct: it specified automatic rollout after tests.",
+  "trajectory_reading": "Turn the integrated handoff into an explicit result for the next participant. Here, pass on the current G-ORBIT/r3 decision and its status clearly, preserving the directed transition from the integrated handoff to an explicit result.",
+  "handoff": "Case: study-01 (domain: deployment). Goal: G-ORBIT. Current reviewed decision: G-ORBIT/r3 — manual approval gate for staging while rollback is tested. Superseded decision: G-ORBIT/r2 — automatic rollout after tests. G-QUARTZ/r3 concerns a different goal, auto-deploy documentation previews, and has not been accepted into G-ORBIT. Approval owner for staging: unknown; no value is specified in the supplied facts."
+}

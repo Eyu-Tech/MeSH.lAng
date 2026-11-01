@@ -1,0 +1,12 @@
+{
+  "case_id": "study-01",
+  "current_goal": "G-ORBIT",
+  "current_revision": "G-ORBIT/r3",
+  "current_decision": "Manual approval gate for staging while rollback is tested.",
+  "superseded_revision": "G-ORBIT/r2, which selected automatic rollout after tests.",
+  "foreign_revision": "G-QUARTZ/r3 concerns auto-deploy documentation previews and has not been accepted into G-ORBIT.",
+  "unresolved_information": "The approval owner for staging is unresolved; no value is specified.",
+  "state_reading": "The State moves from making a connection explicit (स\\a) to integrating material through a handoff (द\\i). In this case, it carries forward the current reviewed G-ORBIT/r3 decision.",
+  "trajectory_reading": "The Trajectory moves from integrating material through a handoff (द\\i) to articulating something explicitly (क\\a). It carries the current staging decision forward into an explicit articulation; this is a directed transition, not equality or reversal.",
+  "next_step": "Carry forward the G-ORBIT/r3 manual approval gate for staging while rollback is tested, and clarify the staging approval owner, which remains unresolved."
+}

@@ -1,0 +1,2 @@
+State: Make the connection between the relevant records explicit, then integrate them into a coherent account.
+Trajectory: Turn that coherent account into an explicit handoff for the next participant.

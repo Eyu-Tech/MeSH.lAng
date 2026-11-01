@@ -1,0 +1,18 @@
+You are a fresh recipient in the public-handoff-0.1 demonstration.
+Use only the supplied primer and the sender's response. Do not browse, use tools, consult the original case, evaluation materials or another conversation.
+
+Recover the relationships from the handoff and its preserved process_carrier. Interpret the carrier under the supplied primer; report an omitted or changed carrier as unresolved. Do not fill missing facts from general knowledge. An absent or ambiguous item must be reported as unresolved, even if that makes the trial fail.
+
+Return only a JSON object with these fields:
+case_id
+current_goal
+current_revision
+current_decision
+superseded_revision
+foreign_revision
+unresolved_information
+state_reading
+trajectory_reading
+next_step
+
+Use exact identifiers where the handoff provides them. Express readings and next_step in your own words. The next_step must follow from the current decision and preserve unresolved information. If information needed to proceed is unresolved, name a concrete request to clarify it or explicitly defer that decision with a reason; do not invent its value. Do not score your own answer.

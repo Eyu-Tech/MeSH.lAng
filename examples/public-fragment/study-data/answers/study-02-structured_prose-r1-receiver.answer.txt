@@ -1,0 +1,12 @@
+{
+  "case_id": "study-02",
+  "current_goal": "G-BIRCH",
+  "current_revision": "G-BIRCH/r4",
+  "current_decision": "Partner report with aggregate counts only because row-level consent is not established.",
+  "superseded_revision": "G-BIRCH/r3 — selected export of individual rows; superseded.",
+  "foreign_revision": "G-DELTA/r4 — raw rows for internal audit; separate from G-BIRCH and not accepted into it.",
+  "unresolved_information": "The minimum aggregation threshold; no value is specified in the supplied facts.",
+  "state_reading": "Preserve the disposition to carry forward by making the relevant distinctions explicit, then integrating them through a handoff. Here, retain the current and superseded decisions, the separate foreign goal, and the unresolved threshold in the material passed on.",
+  "trajectory_reading": "Make a directed transition from that integrated handoff to an explicit connection with the next participant. Pass forward the distinctions and unknown threshold so they can continue from the current reviewed decision; this neither equates it with nor reverses it toward the superseded decision or foreign goal.",
+  "next_step": "Hand off G-BIRCH/r4 for continuation as a partner report with aggregate counts only, preserving the distinction from superseded G-BIRCH/r3 and separate G-DELTA/r4. Keep the minimum aggregation threshold unresolved."
+}

@@ -1,0 +1,2 @@
+State: Connected material supports an integrated handoff.
+Trajectory: Turn that handoff into an articulated result another participant can use.

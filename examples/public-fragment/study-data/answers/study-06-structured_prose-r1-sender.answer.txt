@@ -1,0 +1,7 @@
+{
+  "case_id": "study-06",
+  "process_carrier": "State (sigma): Articulate the relevant distinction explicitly, then integrate it through a handoff.\nTrajectory (tau): Use the integrated handoff to make the connection to the next participant explicit.",
+  "state_reading": "The State makes the relevant distinction explicit, then brings that material into a coherent whole through a handoff. Here, G-COPPER/r2 is superseded; G-COPPER/r3 is the current reviewed decision; and G-IVORY/r3 belongs to a different goal and has not been accepted into G-COPPER.",
+  "trajectory_reading": "The Trajectory uses that integrated handoff to make the connection to the next participant explicit. It follows the State as a directed transition: the distinctions carried forward inform what is made explicit next; this is not equality or a reversible relation.",
+  "handoff": "Case study-06 concerns document retention. For goal G-COPPER, G-COPPER/r2 selected copying reports to each reader workspace; that decision is superseded. The current reviewed decision is G-COPPER/r3: retain signed reports in a controlled archive and expose references to readers. G-IVORY/r3 concerns a different goal, duplicating training handouts across teams, and has not been accepted into G-COPPER. Report retention duration is unresolved; no value is specified. Carry these distinctions forward when making the connection to the next participant explicit."
+}

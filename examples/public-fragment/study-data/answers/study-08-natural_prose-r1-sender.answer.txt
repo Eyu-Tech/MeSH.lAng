@@ -1,0 +1,7 @@
+{
+  "case_id": "study-08",
+  "process_carrier": "The standing process is to integrate relevant material through a handoff, then make its connections explicit. The next move is to turn those explicit connections into a coherent articulation for the next participant.",
+  "state_reading": "The State carries forward relevant material by integrating it through a handoff and then making its connections explicit.",
+  "trajectory_reading": "The Trajectory moves from those explicit connections toward a coherent articulation for the next participant.",
+  "handoff": "Case study-08 concerns offline editing. For goal G-LOOM, G-LOOM/r1 selected overwriting the server copy on reconnect; that decision is superseded. The current reviewed decision is G-LOOM/r2: store edits locally offline and require visible conflict review after sync. G-PLUME/r2 concerns a different goal, auto-merge image labels in another workflow, and has not been accepted into G-LOOM. The maximum offline storage size is unresolved; no value is specified in the supplied facts."
+}

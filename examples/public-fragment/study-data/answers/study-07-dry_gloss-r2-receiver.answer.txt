@@ -1,0 +1,14 @@
+{
+  "case_id": "study-07",
+  "current_goal": "G-AURORA",
+  "current_revision": "G-AURORA/r4",
+  "current_decision": "Add the new field as optional until all consumers can read it.",
+  "superseded_revision": "G-AURORA/r3",
+  "foreign_revision": "G-PEBBLE/r4",
+  "unresolved_information": [
+    "The consumer readiness date is unresolved; no value is specified."
+  ],
+  "state_reading": "Make the connection among the relevant schema-migration records explicit, then bring those parts together into a coherent articulation. Preserve that G-AURORA/r3 is superseded, G-AURORA/r4 is current, and G-PEBBLE/r4 belongs to a separate goal.",
+  "trajectory_reading": "Move from the coherent articulation to an explicit handoff of the current G-AURORA/r4 decision. This transition does not make G-AURORA/r3 current or merge G-PEBBLE/r4 into G-AURORA.",
+  "next_step": "Carry forward G-AURORA/r4: keep the new field optional until all consumers can read it. Preserve G-AURORA/r3 as superseded, keep G-PEBBLE/r4 separate, and leave the consumer readiness date unresolved."
+}

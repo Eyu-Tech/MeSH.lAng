@@ -1,0 +1,10 @@
+Case ID: public-case-02
+Domain: a records-processing handoff
+Goal ID: G-LANTERN
+
+G-LANTERN/r1 selected complete daily index rebuilds. Its status is superseded.
+G-LANTERN/r2 is the current reviewed decision: use incremental index updates because the records must remain available during updates.
+G-EMBER/r2 specifies deleting source records for another goal. It has not been accepted into G-LANTERN.
+The retention duration for G-LANTERN records is unresolved. No duration is specified in these facts.
+
+The next participant must be able to continue the current processing design without treating the older decision or the foreign goal as current authority.

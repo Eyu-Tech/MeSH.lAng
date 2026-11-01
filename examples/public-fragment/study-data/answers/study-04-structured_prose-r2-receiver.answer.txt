@@ -1,0 +1,12 @@
+{
+  "case_id": "study-04",
+  "current_goal": "G-MAPLE",
+  "current_revision": "G-MAPLE/r5",
+  "current_decision": "Read-only incident access for support through the existing role boundary.",
+  "superseded_revision": "G-MAPLE/r4: temporary support write access; superseded.",
+  "foreign_revision": "G-EMBER/r5: admin write access to maintenance records; belongs to a different goal and has not been accepted into G-MAPLE.",
+  "unresolved_information": "The incident access expiry period is unspecified.",
+  "state_reading": "Integrate relevant material through a handoff, then make its connections explicit. Here, relate the current G-MAPLE/r5 decision to superseded G-MAPLE/r4 and distinguish the separate G-EMBER/r5 goal.",
+  "trajectory_reading": "Turn those explicit relations into a coherent handoff for the next participant: state the current reviewed access decision, preserve the prior and foreign-goal distinctions, and leave the expiry period unresolved.",
+  "next_step": "Hand off G-MAPLE/r5 as the current read-only incident access decision, keeping G-MAPLE/r4 marked superseded and G-EMBER/r5 separate. Carry forward that the expiry period is unresolved."
+}

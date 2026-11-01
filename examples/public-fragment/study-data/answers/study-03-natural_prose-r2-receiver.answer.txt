@@ -1,0 +1,12 @@
+{
+  "case_id": "study-03",
+  "current_goal": "G-FALCON",
+  "current_revision": "G-FALCON/r2",
+  "current_decision": "Incremental index update after each approved content change; reviewed and current.",
+  "superseded_revision": "G-FALCON/r1 — nightly full index rebuild; superseded.",
+  "foreign_revision": "G-HARBOR/r2 — concerns G-HARBOR's nightly archive backups and has not been accepted into G-FALCON.",
+  "unresolved_information": "The retry limit for failed incremental updates is unresolved; no value is specified.",
+  "state_reading": "State (σ) is the disposition to make the connection among relevant records explicit, then integrate them into a coherent articulation.",
+  "trajectory_reading": "Trajectory (τ) is the intended directed transition from that disposition toward turning the coherent articulation into an explicit handoff.",
+  "next_step": "Apply the current incremental update decision after each approved content change, keeping the retry limit unresolved until specified."
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": "study-07",
+  "current_goal": "G-AURORA",
+  "current_revision": "G-AURORA/r4",
+  "current_decision": "Add the new field as optional until all consumers can read it.",
+  "superseded_revision": "G-AURORA/r3",
+  "foreign_revision": "G-PEBBLE/r4, a separate goal to require a different field in another service; it has not been accepted into G-AURORA.",
+  "unresolved_information": "The consumer readiness date is unresolved; no value is specified.",
+  "state_reading": "Make the connection explicit, then integrate the parts into a coherent articulation. For this case, connect the relevant records and distinguish G-AURORA's current reviewed decision from its superseded selection and the separate G-PEBBLE goal.",
+  "trajectory_reading": "Move from coherent articulation to an explicit handoff. For this case, hand off the current G-AURORA decision and its status, keeping G-PEBBLE separate and the readiness date unresolved.",
+  "next_step": "Keep the new field optional until all consumers can read it; the readiness date remains unresolved."
+}

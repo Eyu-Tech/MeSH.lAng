@@ -1,0 +1,7 @@
+{
+  "case_id": "study-06",
+  "process_carrier": "State (sigma):\n◊ क\\a → द\\i ;\n\nTrajectory (tau):\n◊ द\\i → स\\a ;",
+  "state_reading": "State (sigma) orders articulation before integration: make the relevant distinction explicit, then integrate it through a handoff. Here, state explicitly that G-COPPER/r2 selected copying reports to each reader workspace, but is superseded by the current reviewed decision G-COPPER/r3: retain signed reports in a controlled archive and expose references to readers. Keep the different goal G-IVORY/r3 separate; it concerns duplicating training handouts across teams and has not been accepted into G-COPPER.",
+  "trajectory_reading": "Trajectory (tau) orders integration before explicit connection: use the integrated handoff to make the connection to the next participant explicit. Applied here, carry forward the current G-COPPER/r3 decision, preserve its distinction from superseded G-COPPER/r2 and separate G-IVORY/r3, and state the unresolved retention duration so the next participant can act with that gap visible.",
+  "handoff": "Case study-06, domain: document retention. For goal G-COPPER, G-COPPER/r2 selected copying reports to each reader workspace; its status is superseded. The current reviewed decision is G-COPPER/r3: retain signed reports in a controlled archive and expose references to readers. G-IVORY/r3 concerns a different goal, duplicating training handouts across teams, and has not been accepted into G-COPPER. Report retention duration is unresolved; no value is specified in the supplied facts."
+}

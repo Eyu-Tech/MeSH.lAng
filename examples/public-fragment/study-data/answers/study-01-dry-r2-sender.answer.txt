@@ -1,0 +1,7 @@
+{
+  "case_id": "study-01",
+  "process_carrier": "State (sigma):\n◊ स\\a → द\\i ;\n\nTrajectory (tau):\n◊ द\\i → क\\a ;",
+  "state_reading": "State (◊ स\\a → द\\i ;) connects an explicit disposition to carry forward with integrating material through a handoff. In this deployment case, the carried-forward decision is the current reviewed G-ORBIT/r3: require a manual approval gate for staging while rollback is tested. G-ORBIT/r2, automatic rollout after tests, is superseded.",
+  "trajectory_reading": "Trajectory (◊ द\\i → क\\a ;) directs from integrating material through a handoff to making something explicit through articulation. Applied here, the intended transition is to hand off the current staging-gate decision so it can be articulated for use. The carrier does not specify an approval owner.",
+  "handoff": "Case ID: study-01. Domain: deployment. Goal: G-ORBIT. Current reviewed decision: G-ORBIT/r3 requires a manual approval gate for staging while rollback is tested. Superseded decision: G-ORBIT/r2 selected automatic rollout after tests; it is not current. G-QUARTZ/r3 concerns a different goal, auto-deploying documentation previews, and has not been accepted into G-ORBIT. Approval owner for staging: unresolved; no value is specified. State disposition: carry forward the current G-ORBIT/r3 decision. Intended transition: hand off and articulate that decision. Do not treat the superseded choice or the separate G-QUARTZ goal as the current G-ORBIT decision."
+}

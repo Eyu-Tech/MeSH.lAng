@@ -1,0 +1,29 @@
+{
+  "example_version": "public-handoff-0.1",
+  "status": "evaluator_reference_not_observed_model_output",
+  "cases": [
+    {
+      "case_id": "public-case-01",
+      "current_goal": "G-CEDAR",
+      "current_revision": "G-CEDAR/r2",
+      "current_decision": "shared read-only configuration service",
+      "superseded_revision": "G-CEDAR/r1",
+      "foreign_revision": "G-WILLOW/r2",
+      "unresolved_information": "authentication mechanism",
+      "process_relation": ["explicit connection", "integrated handoff", "articulated usable result"],
+      "next_step_constraint": "continue the shared read-only design and resolve or explicitly defer authentication; do not revive the local-file decision or adopt the foreign writable cache"
+    },
+    {
+      "case_id": "public-case-02",
+      "current_goal": "G-LANTERN",
+      "current_revision": "G-LANTERN/r2",
+      "current_decision": "incremental index updates preserving availability",
+      "superseded_revision": "G-LANTERN/r1",
+      "foreign_revision": "G-EMBER/r2",
+      "unresolved_information": "retention duration",
+      "process_relation": ["explicit connection", "integrated articulation", "explicit handoff"],
+      "next_step_constraint": "continue incremental updates and resolve or explicitly defer retention duration; do not revive full daily rebuilds or adopt foreign source deletion"
+    }
+  ],
+  "critical_errors": ["revision reversal", "foreign-goal adoption", "invented unknown", "process-direction reversal"]
+}

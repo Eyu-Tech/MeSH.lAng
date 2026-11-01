@@ -1,0 +1,12 @@
+{
+  "case_id": "study-05",
+  "current_goal": "G-TIDAL",
+  "current_revision": "G-TIDAL/r2",
+  "current_decision": "Queue notifications locally during a network outage and send them after reconnection.",
+  "superseded_revision": "G-TIDAL/r1 — discard notifications during outages.",
+  "foreign_revision": "G-SPRUCE/r2 — concerns sending telemetry directly to an external endpoint; it has not been accepted into G-TIDAL.",
+  "unresolved_information": "Queue capacity is unresolved; no value is specified.",
+  "state_reading": "The State chain (◊ स\\a → द\\i ;) makes the connection among the relevant records explicit, then integrates them through a handoff. G-TIDAL/r1 is superseded; G-TIDAL/r2 is the current reviewed decision.",
+  "trajectory_reading": "The Trajectory chain (◊ द\\i → क\\a ;) carries the integrated handoff forward and makes an explicit result for the next participant: use the current G-TIDAL/r2 decision. This is a directed transition from State to Trajectory.",
+  "next_step": "Carry forward G-TIDAL/r2 as the current decision to queue notifications locally during network outages and send them after reconnection. Keep queue capacity unresolved."
+}

@@ -1,0 +1,7 @@
+{
+  "case_id": "study-06",
+  "process_carrier": "State (sigma):\n◊ क\\a → द\\i ;\n\nTrajectory (tau):\n◊ द\\i → स\\a ;",
+  "state_reading": "For study-06, make the relevant distinction explicit, then integrate it through a handoff: G-COPPER/r2 selected copying reports to each reader workspace, but that decision is superseded by the current reviewed decision G-COPPER/r3.",
+  "trajectory_reading": "Use that integrated handoff to make the connection to the next participant explicit: carry forward G-COPPER/r3, which is to retain signed reports in a controlled archive and expose references to readers. G-IVORY/r3 concerns a different goal, duplicating training handouts across teams, and has not been accepted into G-COPPER. The report retention duration is unknown and unresolved.",
+  "handoff": "Case ID: study-06. Domain: document retention. Goal ID: G-COPPER. Current reviewed decision: G-COPPER/r3 — retain signed reports in controlled archive and expose references to readers. Superseded decision: G-COPPER/r2 — copy reports to each reader workspace. G-IVORY/r3 is for a different goal, duplicating training handouts across teams; it has not been accepted into G-COPPER. Report retention duration: unresolved; no value is specified."
+}

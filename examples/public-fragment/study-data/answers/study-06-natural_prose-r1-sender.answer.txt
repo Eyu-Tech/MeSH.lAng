@@ -1,0 +1,7 @@
+{
+  "case_id": "study-06",
+  "process_carrier": "The standing process is to articulate the relevant distinction explicitly, then integrate it through a handoff. The next move is to use the integrated handoff to make the connection to the next participant explicit.",
+  "state_reading": "State (σ) is the disposition to carry forward the relevant distinction by articulating it explicitly, then integrating it through a handoff.",
+  "trajectory_reading": "Trajectory (τ) is the intended directed next move: use that integrated handoff to make the connection to the next participant explicit. It follows the State; it does not mean the two are equal or that the direction is reversed.",
+  "handoff": "Case ID: study-06. Domain: document retention. Goal ID: G-COPPER. G-COPPER/r2, “copy reports to each reader workspace,” is superseded. G-COPPER/r3 is the current reviewed decision: retain signed reports in controlled archive and expose references to readers. G-IVORY/r3 concerns a different goal, duplicating training handouts across teams; it has not been accepted into G-COPPER. Report retention duration is unresolved; no value is specified. Carry forward the distinction between the superseded G-COPPER/r2 and current G-COPPER/r3 decision, and between G-COPPER and the separate G-IVORY goal. Use this integrated handoff to make that distinction explicit to the next participant."
+}

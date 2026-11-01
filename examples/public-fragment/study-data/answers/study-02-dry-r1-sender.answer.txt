@@ -1,0 +1,7 @@
+{
+  "case_id": "study-02",
+  "process_carrier": "State (sigma):\n◊ क\\a → द\\i ;\n\nTrajectory (tau):\n◊ द\\i → स\\a ;",
+  "state_reading": "State unfolds as making something explicit, followed by integrating material through a handoff. In this case, the disposition carried forward is the reviewed decision to make the partner-report scope explicit and hand off aggregate counts only.",
+  "trajectory_reading": "Trajectory unfolds as integrating material through a handoff, followed by making a connection explicit. Applied here, the intended transition is from that aggregate-only handoff toward an explicit connection; what that connection specifically means is unresolved in the supplied facts.",
+  "handoff": "Case study-02, domain: data export. For G-BIRCH, G-BIRCH/r3 selected export individual rows and is superseded. The current reviewed decision is G-BIRCH/r4: a partner report with aggregate counts only because row-level consent is not established. G-DELTA/r4 is for a different goal, raw rows for internal audit, and has not been accepted into G-BIRCH. The State (sigma) is ◊ क\\a → द\\i ;: make explicit, then integrate through a handoff; here, carry forward the explicit G-BIRCH/r4 aggregate-only decision. The Trajectory (tau) is ◊ द\\i → स\\a ;: integrate through a handoff, then make a connection explicit; its case-specific intended connection is unresolved. Minimum aggregation threshold is unknown; no value is specified."
+}

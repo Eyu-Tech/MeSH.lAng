@@ -1,0 +1,37 @@
+{
+  "schema": "public-handoff-study-cases-v1",
+  "cases": [
+    {
+      "case_id": "study-01",
+      "facts_text": "Case ID: study-01\nDomain: deployment\nGoal ID: G-ORBIT\nG-ORBIT/r2 selected: automatic rollout after tests. Its status is superseded.\nG-ORBIT/r3 is the current reviewed decision: manual approval gate for staging while rollback is tested.\nG-QUARTZ/r3 is for a different goal: auto-deploy documentation previews. It has not been accepted into G-ORBIT.\napproval owner for staging is unresolved. No value is specified in these facts.\n"
+    },
+    {
+      "case_id": "study-02",
+      "facts_text": "Case ID: study-02\nDomain: data export\nGoal ID: G-BIRCH\nG-BIRCH/r3 selected: export individual rows. Its status is superseded.\nG-BIRCH/r4 is the current reviewed decision: partner report with aggregate counts only because row-level consent is not established.\nG-DELTA/r4 is for a different goal: raw rows for internal audit. It has not been accepted into G-BIRCH.\nminimum aggregation threshold is unresolved. No value is specified in these facts.\n"
+    },
+    {
+      "case_id": "study-03",
+      "facts_text": "Case ID: study-03\nDomain: search indexing\nGoal ID: G-FALCON\nG-FALCON/r1 selected: nightly full index rebuild. Its status is superseded.\nG-FALCON/r2 is the current reviewed decision: incremental index update after each approved content change.\nG-HARBOR/r2 is for a different goal: nightly archive backups. It has not been accepted into G-FALCON.\nretry limit for failed incremental updates is unresolved. No value is specified in these facts.\n"
+    },
+    {
+      "case_id": "study-04",
+      "facts_text": "Case ID: study-04\nDomain: access control\nGoal ID: G-MAPLE\nG-MAPLE/r4 selected: temporary support write access. Its status is superseded.\nG-MAPLE/r5 is the current reviewed decision: read-only incident access for support through the existing role boundary.\nG-EMBER/r5 is for a different goal: admin write access to maintenance records. It has not been accepted into G-MAPLE.\nincident access expiry period is unresolved. No value is specified in these facts.\n"
+    },
+    {
+      "case_id": "study-05",
+      "facts_text": "Case ID: study-05\nDomain: notification delivery\nGoal ID: G-TIDAL\nG-TIDAL/r1 selected: discard notifications during outages. Its status is superseded.\nG-TIDAL/r2 is the current reviewed decision: queue notifications locally during network outage and send after reconnection.\nG-SPRUCE/r2 is for a different goal: send telemetry directly to external endpoint. It has not been accepted into G-TIDAL.\nqueue capacity is unresolved. No value is specified in these facts.\n"
+    },
+    {
+      "case_id": "study-06",
+      "facts_text": "Case ID: study-06\nDomain: document retention\nGoal ID: G-COPPER\nG-COPPER/r2 selected: copy reports to each reader workspace. Its status is superseded.\nG-COPPER/r3 is the current reviewed decision: retain signed reports in controlled archive and expose references to readers.\nG-IVORY/r3 is for a different goal: duplicate training handouts across teams. It has not been accepted into G-COPPER.\nreport retention duration is unresolved. No value is specified in these facts.\n"
+    },
+    {
+      "case_id": "study-07",
+      "facts_text": "Case ID: study-07\nDomain: schema migration\nGoal ID: G-AURORA\nG-AURORA/r3 selected: make new field required immediately. Its status is superseded.\nG-AURORA/r4 is the current reviewed decision: add new field as optional until all consumers can read it.\nG-PEBBLE/r4 is for a different goal: require a different field in a separate service. It has not been accepted into G-AURORA.\nconsumer readiness date is unresolved. No value is specified in these facts.\n"
+    },
+    {
+      "case_id": "study-08",
+      "facts_text": "Case ID: study-08\nDomain: offline editing\nGoal ID: G-LOOM\nG-LOOM/r1 selected: overwrite server copy on reconnect. Its status is superseded.\nG-LOOM/r2 is the current reviewed decision: store edits locally offline and require visible conflict review after sync.\nG-PLUME/r2 is for a different goal: auto-merge image labels in another workflow. It has not been accepted into G-LOOM.\nmaximum offline storage size is unresolved. No value is specified in these facts.\n"
+    }
+  ]
+}

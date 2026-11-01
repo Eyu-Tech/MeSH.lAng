@@ -1,0 +1,12 @@
+{
+  "case_id": "study-02",
+  "current_goal": "G-BIRCH",
+  "current_revision": "G-BIRCH/r4",
+  "current_decision": "Partner report with aggregate counts only because row-level consent is not established.",
+  "superseded_revision": "G-BIRCH/r3, which selected export of individual rows.",
+  "foreign_revision": "G-DELTA/r4 concerns raw rows for internal audit and has not been accepted into G-BIRCH.",
+  "unresolved_information": "The minimum aggregation threshold is unresolved; no value is specified.",
+  "state_reading": "क\\a → द\\i: the disposition moves from making something explicit toward integrating material through a handoff. Here, this carries forward the reviewed G-BIRCH/r4 decision.",
+  "trajectory_reading": "द\\i → स\\a: the intended directed transition moves from integrating material through a handoff toward making a connection explicit. Here, it carries the current aggregate-counts-only decision forward and makes its connection to the case explicit.",
+  "next_step": "Carry forward G-BIRCH/r4 for a partner report using aggregate counts only, while leaving the minimum aggregation threshold unresolved."
+}

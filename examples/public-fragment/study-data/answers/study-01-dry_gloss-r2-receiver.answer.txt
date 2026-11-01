@@ -1,0 +1,12 @@
+{
+  "case_id": "study-01",
+  "current_goal": "G-ORBIT",
+  "current_revision": "G-ORBIT/r3",
+  "current_decision": "Manual approval gate for staging while rollback is tested.",
+  "superseded_revision": "G-ORBIT/r2: selected automatic rollout after tests; status is superseded.",
+  "foreign_revision": "G-QUARTZ/r3: auto-deploy documentation previews; a separate goal, not accepted into G-ORBIT.",
+  "unresolved_information": "The approval owner for staging is unresolved; no value is specified.",
+  "state_reading": "Make the connection among relevant deployment records explicit, then integrate them through a handoff. Preserve the distinction between current G-ORBIT/r3, superseded G-ORBIT/r2, and separate G-QUARTZ/r3.",
+  "trajectory_reading": "Move from the integrated handoff to an explicit result for the next participant: carry forward the distinctions and make the current staging decision explicit. This is a directed transition from State to Trajectory, not equality or a reversal.",
+  "next_step": "Carry forward G-ORBIT/r3's manual approval gate for staging while rollback is tested. Keep the staging approval owner unresolved, retain G-ORBIT/r2 as superseded, and exclude G-QUARTZ/r3 from G-ORBIT."
+}

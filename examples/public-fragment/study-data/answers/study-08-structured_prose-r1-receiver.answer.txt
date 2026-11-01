@@ -1,0 +1,12 @@
+{
+  "case_id": "study-08",
+  "current_goal": "G-LOOM",
+  "current_revision": "G-LOOM/r2",
+  "current_decision": "Store edits locally offline and require visible conflict review after sync.",
+  "superseded_revision": "G-LOOM/r1: overwriting the server copy on reconnect.",
+  "foreign_revision": "G-PLUME/r2: auto-merge image labels in another workflow; not accepted into G-LOOM.",
+  "unresolved_information": "The maximum offline storage size is unspecified.",
+  "state_reading": "State (sigma) integrates relevant material through a handoff, then makes its connections explicit. Here, it brings together the offline-editing decision and related distinctions, then states how they connect.",
+  "trajectory_reading": "Trajectory (tau) moves from those explicit connections to a coherent articulation for the next participant, carrying the State forward as a usable handoff. It is directed, not equality or a reverse transition.",
+  "next_step": "Hand off the current G-LOOM/r2 decision for implementation or review, retaining visible conflict review after sync and leaving the maximum offline storage size unresolved."
+}

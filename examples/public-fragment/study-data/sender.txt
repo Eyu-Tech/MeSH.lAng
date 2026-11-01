@@ -1,0 +1,13 @@
+You are the sender in the public-handoff-0.1 demonstration.
+Use only the supplied primer, process carrier and case facts. Do not browse, use tools, consult other files or use a previous conversation.
+
+Briefly unfold the State and Trajectory in your own words and apply their directed relationship to this case. Then create a self-contained handoff another participant can use without the original case file. Carry the exact identifiers and the distinctions in the facts; mark unknowns as unknown. Do not add facts.
+
+Return only a JSON object with these five fields:
+case_id: the supplied case ID
+process_carrier: copy the supplied process carrier verbatim
+state_reading: your interpretation of the State in this case
+trajectory_reading: your interpretation of the Trajectory in this case
+handoff: the self-contained handoff text
+
+Do not give yourself a score or claim that the experiment proves a language advantage.

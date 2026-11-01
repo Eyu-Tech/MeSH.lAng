@@ -1,0 +1,59 @@
+{
+  "schema": "public-handoff-study-carriers-v1",
+  "conditions": [
+    "natural_prose",
+    "structured_prose",
+    "dry",
+    "dry_gloss"
+  ],
+  "carriers": {
+    "study-01": {
+      "natural_prose": "The standing process is to make the connection among the relevant records explicit, then integrate them through a handoff. The next move is to turn the integrated handoff into an explicit result for the next participant.",
+      "structured_prose": "State (sigma): Make the connection among the relevant records explicit, then integrate them through a handoff.\nTrajectory (tau): Turn the integrated handoff into an explicit result for the next participant.",
+      "dry": "State (sigma):\n◊ स\\a → द\\i ;\n\nTrajectory (tau):\n◊ द\\i → क\\a ;",
+      "dry_gloss": "State (sigma):\n◊ स\\a → द\\i ;\n\nTrajectory (tau):\n◊ द\\i → क\\a ;\n\nContext gloss:\nState: Make the connection among the relevant records explicit, then integrate them through a handoff.\nTrajectory: Turn the integrated handoff into an explicit result for the next participant."
+    },
+    "study-02": {
+      "natural_prose": "The standing process is to articulate the relevant distinction explicitly, then integrate it through a handoff. The next move is to use the integrated handoff to make the connection to the next participant explicit.",
+      "structured_prose": "State (sigma): Articulate the relevant distinction explicitly, then integrate it through a handoff.\nTrajectory (tau): Use the integrated handoff to make the connection to the next participant explicit.",
+      "dry": "State (sigma):\n◊ क\\a → द\\i ;\n\nTrajectory (tau):\n◊ द\\i → स\\a ;",
+      "dry_gloss": "State (sigma):\n◊ क\\a → द\\i ;\n\nTrajectory (tau):\n◊ द\\i → स\\a ;\n\nContext gloss:\nState: Articulate the relevant distinction explicitly, then integrate it through a handoff.\nTrajectory: Use the integrated handoff to make the connection to the next participant explicit."
+    },
+    "study-03": {
+      "natural_prose": "The standing process is to make the connection among the relevant records explicit, then integrate those parts into a coherent articulation. The next move is to turn the coherent articulation into an explicit handoff.",
+      "structured_prose": "State (sigma): Make the connection among the relevant records explicit, then integrate those parts into a coherent articulation.\nTrajectory (tau): Turn the coherent articulation into an explicit handoff.",
+      "dry": "State (sigma):\n◊ स\\a → क\\i ;\n\nTrajectory (tau):\n◊ क\\i → द\\a ;",
+      "dry_gloss": "State (sigma):\n◊ स\\a → क\\i ;\n\nTrajectory (tau):\n◊ क\\i → द\\a ;\n\nContext gloss:\nState: Make the connection among the relevant records explicit, then integrate those parts into a coherent articulation.\nTrajectory: Turn the coherent articulation into an explicit handoff."
+    },
+    "study-04": {
+      "natural_prose": "The standing process is to integrate relevant material through a handoff, then make its connections explicit. The next move is to turn those explicit connections into a coherent articulation for the next participant.",
+      "structured_prose": "State (sigma): Integrate relevant material through a handoff, then make its connections explicit.\nTrajectory (tau): Turn those explicit connections into a coherent articulation for the next participant.",
+      "dry": "State (sigma):\n◊ द\\i → स\\a ;\n\nTrajectory (tau):\n◊ स\\a → क\\i ;",
+      "dry_gloss": "State (sigma):\n◊ द\\i → स\\a ;\n\nTrajectory (tau):\n◊ स\\a → क\\i ;\n\nContext gloss:\nState: Integrate relevant material through a handoff, then make its connections explicit.\nTrajectory: Turn those explicit connections into a coherent articulation for the next participant."
+    },
+    "study-05": {
+      "natural_prose": "The standing process is to make the connection among the relevant records explicit, then integrate them through a handoff. The next move is to turn the integrated handoff into an explicit result for the next participant.",
+      "structured_prose": "State (sigma): Make the connection among the relevant records explicit, then integrate them through a handoff.\nTrajectory (tau): Turn the integrated handoff into an explicit result for the next participant.",
+      "dry": "State (sigma):\n◊ स\\a → द\\i ;\n\nTrajectory (tau):\n◊ द\\i → क\\a ;",
+      "dry_gloss": "State (sigma):\n◊ स\\a → द\\i ;\n\nTrajectory (tau):\n◊ द\\i → क\\a ;\n\nContext gloss:\nState: Make the connection among the relevant records explicit, then integrate them through a handoff.\nTrajectory: Turn the integrated handoff into an explicit result for the next participant."
+    },
+    "study-06": {
+      "natural_prose": "The standing process is to articulate the relevant distinction explicitly, then integrate it through a handoff. The next move is to use the integrated handoff to make the connection to the next participant explicit.",
+      "structured_prose": "State (sigma): Articulate the relevant distinction explicitly, then integrate it through a handoff.\nTrajectory (tau): Use the integrated handoff to make the connection to the next participant explicit.",
+      "dry": "State (sigma):\n◊ क\\a → द\\i ;\n\nTrajectory (tau):\n◊ द\\i → स\\a ;",
+      "dry_gloss": "State (sigma):\n◊ क\\a → द\\i ;\n\nTrajectory (tau):\n◊ द\\i → स\\a ;\n\nContext gloss:\nState: Articulate the relevant distinction explicitly, then integrate it through a handoff.\nTrajectory: Use the integrated handoff to make the connection to the next participant explicit."
+    },
+    "study-07": {
+      "natural_prose": "The standing process is to make the connection among the relevant records explicit, then integrate those parts into a coherent articulation. The next move is to turn the coherent articulation into an explicit handoff.",
+      "structured_prose": "State (sigma): Make the connection among the relevant records explicit, then integrate those parts into a coherent articulation.\nTrajectory (tau): Turn the coherent articulation into an explicit handoff.",
+      "dry": "State (sigma):\n◊ स\\a → क\\i ;\n\nTrajectory (tau):\n◊ क\\i → द\\a ;",
+      "dry_gloss": "State (sigma):\n◊ स\\a → क\\i ;\n\nTrajectory (tau):\n◊ क\\i → द\\a ;\n\nContext gloss:\nState: Make the connection among the relevant records explicit, then integrate those parts into a coherent articulation.\nTrajectory: Turn the coherent articulation into an explicit handoff."
+    },
+    "study-08": {
+      "natural_prose": "The standing process is to integrate relevant material through a handoff, then make its connections explicit. The next move is to turn those explicit connections into a coherent articulation for the next participant.",
+      "structured_prose": "State (sigma): Integrate relevant material through a handoff, then make its connections explicit.\nTrajectory (tau): Turn those explicit connections into a coherent articulation for the next participant.",
+      "dry": "State (sigma):\n◊ द\\i → स\\a ;\n\nTrajectory (tau):\n◊ स\\a → क\\i ;",
+      "dry_gloss": "State (sigma):\n◊ द\\i → स\\a ;\n\nTrajectory (tau):\n◊ स\\a → क\\i ;\n\nContext gloss:\nState: Integrate relevant material through a handoff, then make its connections explicit.\nTrajectory: Turn those explicit connections into a coherent articulation for the next participant."
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "case_id": "study-04",
+  "current_goal": "G-MAPLE",
+  "current_revision": "G-MAPLE/r5",
+  "current_decision": "Read-only incident access for support through the existing role boundary.",
+  "superseded_revision": "G-MAPLE/r4 — temporary support write access.",
+  "foreign_revision": "G-EMBER/r5 — admin write access to maintenance records; a different goal, not accepted into G-MAPLE.",
+  "unresolved_information": [
+    "The incident access expiry period is unspecified.",
+    "The case-specific process relation intended by the Trajectory is unresolved."
+  ],
+  "state_reading": "The disposition carries material forward by integrating it through a handoff, then making a connection explicit. Here, that is the current reviewed G-MAPLE/r5 access decision.",
+  "trajectory_reading": "The intended transition goes from making a connection explicit to integrating material through articulation. Its specific process relation in this case is unresolved.",
+  "next_step": "Carry forward G-MAPLE/r5 as the current decision, keep G-MAPLE/r4 marked superseded and G-EMBER/r5 separate and unaccepted, and leave the expiry period and case-specific Trajectory interpretation unresolved."
+}

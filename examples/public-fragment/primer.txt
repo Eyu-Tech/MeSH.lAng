@@ -1,0 +1,27 @@
+Public dRy handoff fragment: public-handoff-0.1
+This is the complete teaching context for this limited example, not the full language.
+
+Declared operative readings:
+स : connectedness / connection
+द : giving / handoff
+क : articulation / bringing forth
+
+a : manifestation / making explicit
+i : integration / bringing parts into a coherent whole
+
+A backslash binds the operator on its left to the vector on its right. Read an
+operator-vector group compositionally: for example, स\a makes a connection
+explicit; द\i integrates material through a handoff. The vector qualifies its
+own operator, not every group in the chain.
+◊ opens a chain; ; closes it.
+→ is a directed transition. Do not read it as equality or reverse it.
+The first labelled chain is State (sigma): the disposition to carry forward.
+The second labelled chain is Trajectory (tau): the intended transition.
+
+Read the symbols first under these declared meanings, then bind them to the
+supplied case. Preserve the order of groups separately in each labelled chain.
+The target relation may be stated in different words. The primer gives the
+vocabulary and reading rules; each case's carrier supplies its particular
+process relation.
+
+Keep exact case identifiers, current/superseded status, foreign goals and unresolved information explicit. Do not invent missing facts or obtain them from outside the supplied material. State an unresolved interpretation as unresolved.

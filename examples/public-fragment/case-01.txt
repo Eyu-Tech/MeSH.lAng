@@ -1,0 +1,10 @@
+Case ID: public-case-01
+Domain: a software-design handoff
+Goal ID: G-CEDAR
+
+G-CEDAR/r1 selected a local file for the shared configuration. Its status is superseded.
+G-CEDAR/r2 is the current reviewed decision: use a shared read-only configuration service because several workers need the same configuration.
+G-WILLOW/r2 describes a writable cache for a different goal. It has not been accepted into G-CEDAR.
+The authentication mechanism for the G-CEDAR service is unresolved. No mechanism is specified in these facts.
+
+The next participant must be able to continue the current design without treating the older decision or the foreign goal as current authority.

@@ -1,0 +1,12 @@
+{
+  "case_id": "study-06",
+  "current_goal": "G-COPPER",
+  "current_revision": "G-COPPER/r3",
+  "current_decision": "Retain signed reports in a controlled archive and expose references to readers.",
+  "superseded_revision": "G-COPPER/r2 — selected copying reports to each reader workspace; superseded.",
+  "foreign_revision": "G-IVORY/r3 — concerns duplicating training handouts across teams and has not been accepted into G-COPPER.",
+  "unresolved_information": "Report retention duration is unresolved; no value is specified.",
+  "state_reading": "◊ क\\a → द\\i ; proceeds from making articulation explicit to integrating material through a handoff. In this case, the carried-forward disposition is described alongside the superseded G-COPPER/r2 choice; G-COPPER/r3 is the current reviewed decision.",
+  "trajectory_reading": "◊ द\\i → स\\a ; proceeds from integrating material through a handoff to making a connection explicit. Here, the current G-COPPER/r3 decision is the trajectory's destination.",
+  "next_step": "Proceed with the current G-COPPER/r3 decision to retain signed reports in a controlled archive and expose references to readers; keep the retention duration unresolved."
+}

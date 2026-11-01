@@ -1,0 +1,30 @@
+// Thinking choreography — cognitive operators, repeat cycles, multi-perspective debate.
+// Run this with the interpreter hat (see PRIMER.md) to have the model actually perform it.
+
+moQ.init("Strategist")
+   .instruct("Treat the question as if it matters.")
+   .repeat(3, cycle => cycle
+       .question("How does a small café win against a chain?")
+       .hypothesis()
+       .assumptions()
+       .evidence()
+       .counterEvidence()
+       .unknowns()
+       .confidence()
+       .decision()
+       .challenge()
+       .findBlindSpots()
+       .revise()
+   )
+   .fork(["optimistic", "realistic", "skeptical"])
+   .debate()
+   .merge()
+   .repeat(2, cycle => cycle
+       .challenge()
+       .findUnknowns()
+       .revise()
+   )
+   .confidence()
+   .extractUnknowns()
+   .deliver()
+   .end()

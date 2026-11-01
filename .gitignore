@@ -1,0 +1,12 @@
+# Local editor and operating-system files
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+# Internal context and runtime state
+.mesh/
+.codex/
+.env
+.env.*
+target/
+node_modules/

@@ -1,0 +1,12 @@
+{
+  "case_id": "study-06",
+  "current_goal": "G-COPPER",
+  "current_revision": "G-COPPER/r3",
+  "current_decision": "Retain signed reports in a controlled archive and expose references to readers.",
+  "superseded_revision": "G-COPPER/r2 — copy reports to each reader workspace.",
+  "foreign_revision": "G-IVORY/r3 — concerns duplicating training handouts across teams; it has not been accepted into G-COPPER.",
+  "unresolved_information": "The report retention duration is unspecified.",
+  "state_reading": "The disposition proceeds from making articulation explicit to integrating material through a handoff. Applied here, make the retention decision explicit, then hand off the material for integration.",
+  "trajectory_reading": "The intended directed transition proceeds from integrating material through a handoff toward making a connection explicit. Applied here, move toward explicitly connecting readers to retained reports through references.",
+  "next_step": "Carry forward the current G-COPPER/r3 decision by retaining signed reports in the controlled archive and exposing references to readers. Keep the retention duration unresolved."
+}

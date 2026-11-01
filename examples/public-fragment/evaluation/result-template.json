@@ -1,0 +1,25 @@
+{
+  "example_version": "public-handoff-0.1",
+  "status": "template_no_model_trial_executed",
+  "run_id": null,
+  "case_id": null,
+  "condition": null,
+  "sender_model_version": null,
+  "recipient_model_version": null,
+  "date_utc": null,
+  "environment": {
+    "device_or_os_profile": null,
+    "client_version": null,
+    "instruction_sources": [],
+    "hooks_skills_mcp_personalization": null,
+    "fresh_sender_and_recipient": null,
+    "evaluation_materials_withheld": null
+  },
+  "inputs": {"file_versions_or_hashes": {}, "primer_bytes": null, "carrier_bytes": null, "gloss_bytes": null, "case_bytes": null},
+  "outputs": {"sender_original": null, "recipient_original": null},
+  "checks": {"goal_revision": null, "decision_history": null, "foreign_scope": null, "unknown_information": null, "process_relation": null, "next_action": null},
+  "critical_errors": [],
+  "evaluator_and_disagreements": null,
+  "provider_usage": {"input_tokens": null, "cached_input_tokens": null, "output_tokens": null},
+  "notes_and_technical_failures": null
+}

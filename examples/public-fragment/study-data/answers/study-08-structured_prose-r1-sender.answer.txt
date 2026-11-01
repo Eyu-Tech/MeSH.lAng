@@ -1,0 +1,7 @@
+{
+  "case_id": "study-08",
+  "process_carrier": "State (sigma): Integrate relevant material through a handoff, then make its connections explicit.\nTrajectory (tau): Turn those explicit connections into a coherent articulation for the next participant.",
+  "state_reading": "State (sigma) carries forward the relevant material by integrating it through a handoff, then making its connections explicit. In this case, that means bringing the offline-editing decision and its related distinctions together, then stating how they connect.",
+  "trajectory_reading": "Trajectory (tau) directs a transition from those explicit connections to a coherent articulation for the next participant. It carries the State forward into a usable handoff; it does not imply equality or a reverse transition.",
+  "handoff": "Case study-08 concerns offline editing. For goal G-LOOM, G-LOOM/r1 selected overwriting the server copy on reconnect; that decision is superseded. The current reviewed decision is G-LOOM/r2: store edits locally offline and require visible conflict review after sync. G-PLUME/r2 concerns a different goal, auto-merge image labels in another workflow, and has not been accepted into G-LOOM. The maximum offline storage size is unresolved; no value is specified."
+}

@@ -1,0 +1,7 @@
+{
+  "case_id": "study-07",
+  "process_carrier": "State (sigma):\n◊ स\\a → क\\i ;\n\nTrajectory (tau):\n◊ क\\i → द\\a ;",
+  "state_reading": "State orders स\\a (making a connection explicit) before क\\i (integrating material through articulation). In this schema-migration case, the disposition is to make the relevant connection explicit, then bring the migration decision into a coherent whole for carrying forward.",
+  "trajectory_reading": "Trajectory orders क\\i (integrating material through articulation) before द\\a (making a handoff explicit). The directed transition is from forming a coherent migration decision to explicitly handing it off; it is not an equality or a reversible relation.",
+  "handoff": "Case study-07, domain: schema migration. Goal G-AURORA. G-AURORA/r3, selected to make the new field required immediately, is superseded. The current reviewed decision is G-AURORA/r4: add the new field as optional until all consumers can read it. The consumer readiness date is unresolved; no value is specified. G-PEBBLE/r4 belongs to a different goal—requiring a different field in a separate service—and has not been accepted into G-AURORA. State: make the connection explicit, then integrate the migration decision for carrying forward. Trajectory: integrate the decision, then hand it off explicitly. The transition is directed; the trajectory does not imply equality with the State or run in reverse."
+}

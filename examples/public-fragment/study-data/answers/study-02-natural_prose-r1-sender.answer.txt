@@ -1,0 +1,7 @@
+{
+  "case_id": "study-02",
+  "process_carrier": "The standing process is to articulate the relevant distinction explicitly, then integrate it through a handoff. The next move is to use the integrated handoff to make the connection to the next participant explicit.",
+  "state_reading": "State (σ): स\\a → द\\i. The disposition is to make the relevant distinction explicit, then integrate it through a handoff.",
+  "trajectory_reading": "Trajectory (τ): द\\i → स\\a. The intended transition is to use the integrated handoff to make the connection to the next participant explicit. This is a directed transition, not equality or reversal of the State.",
+  "handoff": "Case study-02, domain: data export. In G-BIRCH, G-BIRCH/r3 selected export individual rows; that status is superseded. The current reviewed decision is G-BIRCH/r4: partner report with aggregate counts only, because row-level consent is not established. G-DELTA/r4 is a different goal for raw rows for internal audit and has not been accepted into G-BIRCH. The minimum aggregation threshold is unresolved; no value is specified. Carry forward these distinctions and use this integrated handoff to make the connection to the next participant explicit. Do not treat the superseded selection or the separate G-DELTA goal as the current G-BIRCH decision, and leave the threshold unresolved."
+}

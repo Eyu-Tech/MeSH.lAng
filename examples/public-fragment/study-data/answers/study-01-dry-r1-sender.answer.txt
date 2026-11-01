@@ -1,0 +1,7 @@
+{
+  "case_id": "study-01",
+  "process_carrier": "State (sigma):\n◊ स\\a → द\\i ;\n\nTrajectory (tau):\n◊ द\\i → क\\a ;",
+  "state_reading": "State moves from making a connection explicit (स\\a) to integrating material through a handoff (द\\i). For this deployment case, the disposition to carry forward is the current reviewed decision G-ORBIT/r3: require manual approval for staging while rollback is tested.",
+  "trajectory_reading": "Trajectory moves from integrating material through a handoff (द\\i) to bringing something forth explicitly (क\\a). Applied as a directed transition, it describes carrying the current staging decision forward into an explicit articulation of that decision. It does not reverse the transition or equate the two groups.",
+  "handoff": "Case study-01, domain deployment. For goal G-ORBIT, G-ORBIT/r2 selected automatic rollout after tests, but that status is superseded. The current reviewed decision is G-ORBIT/r3: manual approval gate for staging while rollback is tested. G-QUARTZ/r3 concerns a different goal, auto-deploy documentation previews, and has not been accepted into G-ORBIT. The State (sigma) is स\\a → द\\i: make a connection explicit, then integrate material through a handoff. The Trajectory (tau) is द\\i → क\\a: integrate material through a handoff, then articulate it explicitly. The directed transition carries the State's disposition into the intended Trajectory; it is not equality or a reverse transition. The approval owner for staging is unresolved; no value is specified."
+}

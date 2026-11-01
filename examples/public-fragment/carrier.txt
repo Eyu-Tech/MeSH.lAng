@@ -1,0 +1,5 @@
+State (sigma):
+◊ स\a → द\i ;
+
+Trajectory (tau):
+◊ द\i → क\a ;

@@ -1,0 +1,12 @@
+{
+  "case_id": "study-03",
+  "current_goal": "G-FALCON",
+  "current_revision": "G-FALCON/r2",
+  "current_decision": "Incremental index update after each approved content change",
+  "superseded_revision": "G-FALCON/r1 — nightly full index rebuild",
+  "foreign_revision": "G-HARBOR/r2 — nightly archive backups; concerns a different goal and has not been accepted into G-FALCON",
+  "unresolved_information": "The retry limit for failed incremental updates is unresolved; no value is specified.",
+  "state_reading": "Make the relevant decision records explicit, then integrate them into a coherent account.",
+  "trajectory_reading": "Carry that account forward as an explicit handoff to the next participant, preserving the distinction between current, superseded, and foreign revisions.",
+  "next_step": "Hand off G-FALCON/r2 as the current reviewed decision for incremental updates after each approved content change. Keep G-FALCON/r1 marked superseded and G-HARBOR/r2 separate as a foreign goal. Leave the retry limit unresolved."
+}

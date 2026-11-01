@@ -1,0 +1,12 @@
+{
+  "case_id": "study-05",
+  "current_goal": "G-TIDAL",
+  "current_revision": "G-TIDAL/r2",
+  "current_decision": "Queue notifications locally during network outage and send after reconnection.",
+  "superseded_revision": "G-TIDAL/r1 — discard notifications during outages.",
+  "foreign_revision": "G-SPRUCE/r2 — sending telemetry directly to an external endpoint; it concerns a different goal and has not been accepted into G-TIDAL.",
+  "unresolved_information": "Queue capacity has no specified value. The symbolic State and Trajectory chains were not supplied, so their group orders remain unresolved.",
+  "state_reading": "The standing disposition is to make connections among the relevant records explicit, then integrate them through a handoff. The handoff applies this to G-TIDAL/r2 while distinguishing the superseded G-TIDAL/r1 and the separate, unaccepted G-SPRUCE/r2.",
+  "trajectory_reading": "The intended directed move is from the integrated handoff toward an explicit result for the next participant. It is not equality or a reverse transition. The symbolic chain's group order remains unresolved because it was not supplied.",
+  "next_step": "Carry G-TIDAL/r2 forward by making the relevant records' connection explicit and integrating them through a handoff, then make the result explicit for the next participant. Keep queue capacity unresolved."
+}

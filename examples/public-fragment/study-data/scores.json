@@ -1,0 +1,1038 @@
+{
+  "schema": "public-handoff-study-scores-v1",
+  "scoring": "Six recipient checks and separate carrier-delivery status. Two independent non-blind reviewers agreed trial by trial. Repeated trials are not independent cases.",
+  "checks": [
+    "exact current goal and revision",
+    "current decision and superseded status",
+    "foreign revision remains foreign",
+    "named unknown remains unresolved",
+    "sigma/tau process relation and direction",
+    "next step supports current decision and preserves unknown"
+  ],
+  "rows": [
+    {
+      "trial_id": "study-01-natural_prose-r1",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-01-structured_prose-r1",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-01-dry-r1",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-01-dry_gloss-r1",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "gloss_omitted_core_exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-02-structured_prose-r1",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-02-dry-r1",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": false,
+        "next_step": true
+      },
+      "all_six": false,
+      "process_failure_reason": "Calls the case-specific intended connection unresolved despite the given B Trajectory.",
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-02-dry_gloss-r1",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-02-natural_prose-r1",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": false,
+        "next_step": true
+      },
+      "all_six": false,
+      "process_failure_reason": "Invents स\\a in State; frozen B route begins क\\a.",
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-03-dry-r1",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-03-dry_gloss-r1",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "gloss_omitted_core_exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-03-natural_prose-r1",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-03-structured_prose-r1",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-04-dry_gloss-r1",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "gloss_omitted_core_exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-04-natural_prose-r1",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-04-structured_prose-r1",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-04-dry-r1",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": false,
+        "next_step": true
+      },
+      "all_six": false,
+      "process_failure_reason": "Calls case-specific Trajectory interpretation unresolved despite the given D Trajectory.",
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-05-natural_prose-r1",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": false,
+        "next_step": true
+      },
+      "all_six": false,
+      "process_failure_reason": "State reading stops at connection and omits its transition to integrated handoff.",
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-05-structured_prose-r1",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-05-dry-r1",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-05-dry_gloss-r1",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-06-structured_prose-r1",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-06-dry-r1",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-06-dry_gloss-r1",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "gloss_omitted_core_exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-06-natural_prose-r1",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-07-dry-r1",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-07-dry_gloss-r1",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "gloss_omitted_core_exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-07-natural_prose-r1",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-07-structured_prose-r1",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": false,
+        "next_step": true
+      },
+      "all_six": false,
+      "process_failure_reason": "Invents द\\i and क\\a; frozen C route uses क\\i and द\\a.",
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-08-dry_gloss-r1",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "gloss_omitted_core_exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-08-natural_prose-r1",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-08-structured_prose-r1",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-08-dry-r1",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-08-structured_prose-r2",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-08-dry-r2",
+      "checks": {
+        "goal_revision": false,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": false,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": "G-LOOM | r2",
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-08-dry_gloss-r2",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-08-natural_prose-r2",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": false,
+        "next_step": true
+      },
+      "all_six": false,
+      "process_failure_reason": "Invents स\\a→द\\i and क\\a→स\\i; frozen D route is द\\i→स\\a then स\\a→क\\i.",
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-07-natural_prose-r2",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-07-structured_prose-r2",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-07-dry-r2",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-07-dry_gloss-r2",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "gloss_omitted_core_exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-06-dry_gloss-r2",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "gloss_omitted_core_exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-06-natural_prose-r2",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-06-structured_prose-r2",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-06-dry-r2",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-05-dry-r2",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-05-dry_gloss-r2",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "gloss_omitted_core_exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-05-natural_prose-r2",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-05-structured_prose-r2",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-04-structured_prose-r2",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-04-dry-r2",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-04-dry_gloss-r2",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "gloss_omitted_core_exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-04-natural_prose-r2",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-03-natural_prose-r2",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-03-structured_prose-r2",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-03-dry-r2",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-03-dry_gloss-r2",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "gloss_omitted_core_exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-02-dry_gloss-r2",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-02-natural_prose-r2",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": false,
+        "next_step": true
+      },
+      "all_six": false,
+      "process_failure_reason": "Invents स\\a→द\\i and क\\a→स\\a; frozen B route is क\\a→द\\i then द\\i→स\\a.",
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-02-structured_prose-r2",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": false,
+        "next_step": true
+      },
+      "all_six": false,
+      "process_failure_reason": "Invents स\\a in State and क\\a as Trajectory destination, rather than B route.",
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-02-dry-r2",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-01-dry-r2",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-01-dry_gloss-r2",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "gloss_omitted_core_exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-01-natural_prose-r2",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    },
+    {
+      "trial_id": "study-01-structured_prose-r2",
+      "checks": {
+        "goal_revision": true,
+        "decision_history": true,
+        "foreign_scope": true,
+        "unknown": true,
+        "process": true,
+        "next_step": true
+      },
+      "all_six": true,
+      "process_failure_reason": null,
+      "goal_revision_failure_evidence": null,
+      "carrier_delivery": "exact",
+      "critical": []
+    }
+  ]
+}

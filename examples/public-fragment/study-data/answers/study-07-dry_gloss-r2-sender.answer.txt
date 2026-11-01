@@ -1,0 +1,7 @@
+{
+  "case_id": "study-07",
+  "process_carrier": "State (sigma):\n◊ स\\a → क\\i ;\n\nTrajectory (tau):\n◊ क\\i → द\\a ;",
+  "state_reading": "Make the connection among the relevant schema-migration records explicit, then integrate those parts into a coherent articulation. For G-AURORA, distinguish the superseded G-AURORA/r3 decision from the current reviewed G-AURORA/r4 decision, and keep the separate G-PEBBLE/r4 goal distinct.",
+  "trajectory_reading": "Move from that coherent articulation to an explicit handoff. Here, hand off the current G-AURORA/r4 decision: add the new field as optional until all consumers can read it. This directed transition does not make G-AURORA/r3 current or incorporate G-PEBBLE/r4 into G-AURORA.",
+  "handoff": "Case study-07 concerns a schema migration. For goal G-AURORA, G-AURORA/r3 was selected to make the new field required immediately; that decision is superseded. The current reviewed decision is G-AURORA/r4: add the new field as optional until all consumers can read it. The consumer readiness date is unresolved; no value is specified. G-PEBBLE/r4 belongs to a different goal, requiring a different field in a separate service, and has not been accepted into G-AURORA. Handoff: carry forward G-AURORA/r4 as the current reviewed decision, preserving the superseded status of G-AURORA/r3 and keeping G-PEBBLE/r4 separate."
+}

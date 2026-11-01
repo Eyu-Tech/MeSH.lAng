@@ -1,0 +1,12 @@
+{
+  "case_id": "study-08",
+  "current_goal": "G-LOOM",
+  "current_revision": "G-LOOM/r2",
+  "current_decision": "Store edits locally offline and require visible conflict review after sync.",
+  "superseded_revision": "G-LOOM/r1, which selected overwriting the server copy on reconnect.",
+  "foreign_revision": "G-PLUME/r2 belongs to a different goal and workflow: auto-merge image labels in another workflow. It has not been accepted into G-LOOM.",
+  "unresolved_information": "The maximum offline storage size is unresolved; no value is specified.",
+  "state_reading": "The disposition is to integrate material through a handoff, then make a connection explicit. In this case, carry forward the current reviewed decision and clarify its connection to the workflow.",
+  "trajectory_reading": "The intended transition is to make a connection explicit, then integrate material through articulation. Here, clarify the link between syncing and conflict review, then bring the edits into the workflow through that articulation.",
+  "next_step": "Make the sync-to-conflict-review connection explicit and integrate the offline edits through that articulation, while retaining visible conflict review and leaving the maximum offline storage size unresolved."
+}

@@ -1,0 +1,9 @@
+case_id,left,right,projection,dimension_bits,hamming_distance_bits
+P03,Kraft,kraft,identity-unicode-scalar-v1,512,111
+P04,Kraft,kraft,unicode-nfc-lower-v1,512,0
+P05,ä,ä,identity-unicode-scalar-v1,512,257
+P06,ä,ä,unicode-nfc-lower-v1,512,0
+P07,Straße,Strasse,unicode-nfc-lower-v1,512,205
+P08,Ä,AE,unicode-nfc-lower-v1,512,251
+P09,Schmiede-Kraft,SchmiedeKraft,identity-unicode-scalar-v1,512,122
+P10,Kraft/Fluss,Kraft(Fluss),identity-unicode-scalar-v1,512,165

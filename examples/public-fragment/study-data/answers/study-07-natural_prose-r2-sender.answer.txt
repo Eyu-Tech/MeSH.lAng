@@ -1,0 +1,7 @@
+{
+  "case_id": "study-07",
+  "process_carrier": "The standing process is to make the connection among the relevant records explicit, then integrate those parts into a coherent articulation. The next move is to turn the coherent articulation into an explicit handoff.",
+  "state_reading": "State (σ) is the disposition to carry forward the relevant records by making their connections explicit, then integrating them into a coherent articulation. In this case, that means keeping the goal and revision statuses distinct: G-AURORA/r4 is the current reviewed decision, G-AURORA/r3 is superseded, and G-PEBBLE/r4 belongs to a different goal and has not been accepted into G-AURORA.",
+  "trajectory_reading": "Trajectory (τ) is the intended directed transition from that coherent articulation to an explicit handoff. The transition runs from the State toward the handoff; it is not equality or a reversible relation. For this case, the handoff carries forward the current G-AURORA decision and its distinctions without treating the foreign G-PEBBLE goal as accepted.",
+  "handoff": "Case ID: study-07. Domain: schema migration. Goal ID: G-AURORA. Current reviewed decision: G-AURORA/r4 — add the new field as optional until all consumers can read it. Superseded decision: G-AURORA/r3 — make the new field required immediately. G-PEBBLE/r4 concerns a different goal, requiring a different field in a separate service; it has not been accepted into G-AURORA. Consumer readiness date: unresolved; no value is specified."
+}

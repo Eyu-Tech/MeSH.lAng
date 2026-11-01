@@ -1,0 +1,12 @@
+{
+  "case_id": "study-06",
+  "current_goal": "G-COPPER",
+  "current_revision": "G-COPPER/r3",
+  "current_decision": "Retain signed reports in a controlled archive and expose references to readers.",
+  "superseded_revision": "G-COPPER/r2 — copy reports to each reader workspace.",
+  "foreign_revision": "G-IVORY/r3 — duplicates training handouts across teams; it concerns a different goal and has not been accepted into G-COPPER.",
+  "unresolved_information": "The report retention duration is unknown and unspecified.",
+  "state_reading": "Make the relevant distinction explicit, then integrate it through a handoff: G-COPPER/r2 was superseded by the current reviewed decision, G-COPPER/r3.",
+  "trajectory_reading": "Use that integrated handoff to make the connection to the next participant explicit by carrying forward G-COPPER/r3: retain signed reports in a controlled archive and expose references to readers.",
+  "next_step": "Carry forward G-COPPER/r3 to the next participant for retaining signed reports in a controlled archive and exposing references to readers; keep the retention duration unresolved."
+}

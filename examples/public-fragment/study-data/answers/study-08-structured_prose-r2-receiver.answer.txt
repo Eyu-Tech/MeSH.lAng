@@ -1,0 +1,12 @@
+{
+  "case_id": "study-08",
+  "current_goal": "G-LOOM",
+  "current_revision": "G-LOOM/r2",
+  "current_decision": "Store edits locally offline and require visible conflict review after sync.",
+  "superseded_revision": "G-LOOM/r1 — overwrite the server copy on reconnect.",
+  "foreign_revision": "G-PLUME/r2 — auto-merge image labels in another workflow; not accepted into G-LOOM.",
+  "unresolved_information": "The maximum offline storage size is unresolved; no value is specified.",
+  "state_reading": "Integrate the relevant offline-editing decisions and distinctions through the handoff, then make their connections explicit: G-LOOM/r1 is superseded, G-LOOM/r2 is current, and G-PLUME/r2 belongs to a different goal and has not been accepted into G-LOOM.",
+  "trajectory_reading": "Turn those explicit connections into a coherent articulation for the next participant: carry forward the current G-LOOM/r2 decision while preserving that G-LOOM/r1 is superseded and keeping G-PLUME/r2 separate. The maximum offline storage size remains unresolved.",
+  "next_step": "Carry forward G-LOOM/r2 as the current decision, preserving the superseded status of G-LOOM/r1 and the separation of G-PLUME/r2. Keep the maximum offline storage size unresolved."
+}

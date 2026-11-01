@@ -1,0 +1,12 @@
+{
+  "case_id": "study-01",
+  "current_goal": "G-ORBIT",
+  "current_revision": "G-ORBIT/r3",
+  "current_decision": "Require a manual approval gate for staging while rollback is tested.",
+  "superseded_revision": "G-ORBIT/r2; it selected automatic rollout after tests and is not current.",
+  "foreign_revision": "G-QUARTZ/r3; it concerns auto-deploying documentation previews and has not been accepted into G-ORBIT.",
+  "unresolved_information": "The approval owner for staging is unspecified.",
+  "state_reading": "◊ स\\a → द\\i ; connects making explicit to integrating material through a handoff. Here, carry forward the current reviewed G-ORBIT/r3 decision.",
+  "trajectory_reading": "◊ द\\i → क\\a ; directs from integrating material through a handoff to making something explicit through articulation. Here, hand off the current staging-gate decision so it can be articulated for use; the carrier does not specify an approval owner.",
+  "next_step": "Carry forward and hand off the G-ORBIT/r3 decision for articulation, preserving that the staging approval owner remains unresolved."
+}

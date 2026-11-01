@@ -1,0 +1,7 @@
+{
+  "case_id": "study-03",
+  "process_carrier": "The standing process is to make the connection among the relevant records explicit, then integrate those parts into a coherent articulation. The next move is to turn the coherent articulation into an explicit handoff.",
+  "state_reading": "State (σ) is the disposition to make the connection among relevant records explicit, then integrate those parts into a coherent articulation.",
+  "trajectory_reading": "Trajectory (τ) is the intended directed transition from that disposition toward turning the coherent articulation into an explicit handoff.",
+  "handoff": "Case ID: study-03. Domain: search indexing. For goal G-FALCON, G-FALCON/r1 selected a nightly full index rebuild; its status is superseded. G-FALCON/r2 is the current reviewed decision: incremental index update after each approved content change. G-HARBOR/r2 concerns a different goal, nightly archive backups, and has not been accepted into G-FALCON. The retry limit for failed incremental updates is unresolved; no value is specified."
+}

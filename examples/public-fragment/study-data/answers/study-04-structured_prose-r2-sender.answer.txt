@@ -1,0 +1,7 @@
+{
+  "case_id": "study-04",
+  "process_carrier": "State (sigma): Integrate relevant material through a handoff, then make its connections explicit.\nTrajectory (tau): Turn those explicit connections into a coherent articulation for the next participant.",
+  "state_reading": "Integrate the relevant case material through a handoff, then make explicit how the current decision, superseded decision, and separate foreign goal relate. For this case, G-MAPLE/r5 is current; G-MAPLE/r4 is superseded; G-EMBER/r5 belongs to a different goal and is not part of G-MAPLE.",
+  "trajectory_reading": "Carry those explicit relations forward as a coherent handoff for the next participant: state the current reviewed access decision clearly, preserve the prior and foreign-goal distinctions, and identify the unresolved expiry period without filling it in.",
+  "handoff": "Case study-04 concerns access control, goal G-MAPLE. G-MAPLE/r5 is the current reviewed decision: read-only incident access for support through the existing role boundary. G-MAPLE/r4 selected temporary support write access and is superseded. G-EMBER/r5 concerns a different goal, admin write access to maintenance records; it has not been accepted into G-MAPLE. The incident access expiry period is unresolved; no value is specified."
+}
